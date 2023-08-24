@@ -3,6 +3,7 @@
 git clone https://github.com/fgaurat/amazon_products_csv.git
 
 cd amazon_products_csv
+python3 -m venv .venv
 pip install -r requirements.txt
 ```
 ## Configuration
