@@ -1,10 +1,10 @@
 # Installation
-
+```
 git clone https://github.com/fgaurat/amazon_products_csv.git
 
 cd amazon_products_csv
 pip install -r requirements.txt
-
+```
 ## Configuration
 Dans le fichier config.ini, renseigner les informations (api_key,...).
 Il est possible de faire plusieurs fichier de configuration.
