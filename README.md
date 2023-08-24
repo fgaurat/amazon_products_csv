@@ -4,6 +4,13 @@ git clone https://github.com/fgaurat/amazon_products_csv.git
 
 cd amazon_products_csv
 python3 -m venv .venv
+
+# pour windows
+.venv/Scripts/activate.bat
+
+# pour linux/macos
+source .venv/bin/activate
+
 pip install -r requirements.txt
 ```
 ## Configuration
