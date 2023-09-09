@@ -1,0 +1,622 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 883,
+    "credits_used_this_request": 1,
+    "credits_remaining": 9117,
+    "credits_reset_at": "2023-09-17T08:17:39.000Z"
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B01LZ19D66",
+    "associate_id": "everydaycarry0a-21",
+    "amazon_domain": "amazon.fr"
+  },
+  "request_metadata": {
+    "created_at": "2023-09-09T14:06:23.286Z",
+    "processed_at": "2023-09-09T14:06:29.676Z",
+    "total_time_taken": 6.39,
+    "amazon_url": "https://www.amazon.fr/dp/B01LZ19D66?th=1&psc=1"
+  },
+  "product": {
+    "title": "DE- (1 paquet de 3) E-cigarettes jetables au go\u00fbt tabac de 500 bouff\u00e9es chacune (Sans nicotine ni tabac)",
+    "search_alias": { "title": "Hygi\u00e8ne et Sant\u00e9", "value": "hpc" },
+    "keywords": "DE-,(1,paquet,de,3),E-cigarettes,jetables,au,go\u00fbt,tabac,de,500,bouff\u00e9es,chacune,(Sans,nicotine,ni,tabac)",
+    "keywords_list": [
+      "paquet",
+      "E-cigarettes",
+      "jetables",
+      "go\u00fbt",
+      "tabac",
+      "bouff\u00e9es",
+      "chacune",
+      "(Sans",
+      "nicotine",
+      "tabac)"
+    ],
+    "asin": "B01LZ19D66",
+    "link": "https://www.amazon.fr/3xE-cigarettes-jetables-bouff%C3%A9es-chacune-nicotine/dp/B01LZ19D66?tag=everydaycarry0a-21",
+    "brand": "Vivi Nova",
+    "sell_on_amazon": true,
+    "categories": [
+      {
+        "name": "Hygi\u00e8ne et Sant\u00e9",
+        "link": "https://www.amazon.fr/hygi%C3%A8ne-sant%C3%A9-soins-du-corps/b/ref=dp_bc_aui_C_1?ie=UTF8&node=197861031",
+        "category_id": "197861031"
+      },
+      {
+        "name": "Cigarettes \u00e9lectroniques, chichas et accessoires",
+        "link": "https://www.amazon.fr/cigarette-electronique/b/ref=dp_bc_aui_C_2?ie=UTF8&node=3786697031",
+        "category_id": "3786697031"
+      },
+      {
+        "name": "Cigarettes \u00e9lectroniques et accessoires",
+        "link": "https://www.amazon.fr/b/ref=dp_bc_aui_C_3?ie=UTF8&node=4852533031",
+        "category_id": "4852533031"
+      },
+      {
+        "name": "Cigarettes \u00e9lectroniques",
+        "link": "https://www.amazon.fr/Cigarettes-Electroniques/b/ref=dp_bc_aui_C_4?ie=UTF8&node=3786699031",
+        "category_id": "3786699031"
+      }
+    ],
+    "categories_flat": "Hygi\u00e8ne et Sant\u00e9 > Cigarettes \u00e9lectroniques, chichas et accessoires > Cigarettes \u00e9lectroniques et accessoires > Cigarettes \u00e9lectroniques",
+    "sub_title": {
+      "text": "Marque\u00a0: Vivi Nova",
+      "link": "https://www.amazon.fr/Vivi-Nova/b/ref=bl_dp_s_web_18289644031?ie=UTF8&node=18289644031&field-lbr_brands_browse-bin=Vivi+Nova&tag=everydaycarry0a-21"
+    },
+    "marketplace_id": "A13V1IB3VIYZZH",
+    "rating": 3.4,
+    "rating_breakdown": {
+      "five_star": { "percentage": 40, "count": 209 },
+      "four_star": { "percentage": 12, "count": 62 },
+      "three_star": { "percentage": 18, "count": 94 },
+      "two_star": { "percentage": 11, "count": 57 },
+      "one_star": { "percentage": 19, "count": 99 }
+    },
+    "ratings_total": 525,
+    "reviews_total": 524,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61MBvWzTS6L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61MBvWzTS6L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51G8vvgf7SL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/518E4Ih+yNL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61k0Ch6DrGL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61H+VHv+jYL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      }
+    ],
+    "images_count": 5,
+    "images_flat": "https://m.media-amazon.com/images/I/61MBvWzTS6L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51G8vvgf7SL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/518E4Ih+yNL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61k0Ch6DrGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61H+VHv+jYL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 29,
+        "width": 854,
+        "height": 480,
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/b2fad075-26d2-4db4-9f5e-685f15207bd3/default.jobtemplate.mp4.480.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51xc1eTs0cL.SX522_.jpg",
+        "is_hero_video": false,
+        "variant": "MAIN",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "title": "DE- E-cigarettes jetables au go\u00fbt tabac"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-eu-west-1-prod/b2fad075-26d2-4db4-9f5e-685f15207bd3/default.jobtemplate.mp4.480.mp4",
+    "is_bundle": false,
+    "feature_bullets": [
+      "Cigarette jetable a fonctionnement automatique.",
+      "Elle produit un volume de vapeur exceptionnel.",
+      "Pr\u00e9sent\u00e9e en paquet, contenant 3 E- cigarettes jetables de 500 bouff\u00e9es chacune (soit l'\u00e9quivalent de 50 cigarettes minimum) au gout tabac sans nicotine.",
+      "Conforme aux normes CE et RoHS."
+    ],
+    "feature_bullets_count": 4,
+    "feature_bullets_flat": "Conforme aux normes CE et RoHS. Pr\u00e9sent\u00e9e en paquet, contenant 3 E- cigarettes jetables de 500 bouff\u00e9es chacune (soit l'\u00e9quivalent de 50 cigarettes minimum) au gout tabac sans nicotine. Elle produit un volume de vapeur exceptionnel. Cigarette jetable a fonctionnement automatique.",
+    "attributes": [
+      { "name": "Caract\u00e9ristique sp\u00e9ciale", "value": "Compact" },
+      { "name": "Saveur", "value": "tabac" },
+      { "name": "Couleur", "value": "Blanc" },
+      { "name": "Poids de l'article", "value": "45 Grammes" }
+    ],
+    "top_reviews": [
+      {
+        "id": "R13TOA8W7617LV",
+        "title": "infecte....",
+        "body": "Achet\u00e9 pour m'aider \u00e0 l'arr\u00eat du tabac, cette cigarette \u00e9lectronique n'a vraiment pas grand chose pour elle \u00e0 part son look... Son + gros probl\u00e8me : le go\u00fbt qui oscille entre plastique et....je ne sais quoi de pas naturel. Et au bout de 10 bouff\u00e9es environ (prises en 2 fois \u00e0 une heure d'intervalle), j'ai senti mes poumons tr\u00e8s encombr\u00e9s, pire qu'avec mes cigarettes. Avec crachats bien verts le lendemain matin, chose inhabituelle pour moi. Conclusion : poubelle ! (en recyclage \u00e9videmment car d\u00e9chet \u00e9lectronique).En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Achet\u00e9 pour m'aider \u00e0 l'arr\u00eat du tabac, cette cigarette \u00e9lectronique n'a vraiment pas grand chose pour elle \u00e0 part son look... Son + gros probl\u00e8me : le go\u00fbt qui oscille entre plastique et....je ne sais quoi de pas naturel. Et au bout de 10 bouff\u00e9es environ (prises en 2 fois \u00e0 une heure d'intervalle), j'ai senti mes poumons tr\u00e8s encombr\u00e9s, pire qu'avec mes cigarettes. Avec crachats bien verts le lendemain matin, chose inhabituelle pour moi. Conclusion : poubelle ! (en recyclage \u00e9videmment car d\u00e9chet \u00e9lectronique).</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R13TOA8W7617LV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 2,
+        "date": {
+          "raw": "Comment\u00e9 en France le 16 avril 2023",
+          "utc": "2023-04-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "O.R.",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AEDYJGUVYXGTWUHO2C72URIJWQPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEDYJGUVYXGTWUHO2C72URIJWQPA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R290RHAVJPE87Q",
+        "title": "Contente",
+        "body": "Tr\u00e8s contente d'avoir offert se si \u00e0 mon mari \u00e9tant grand fumeur..pour sa sant\u00e9 il a diminuer la cigarette .il vapotte celci beaucoup de bouffer..cela lui passe l'envi de fumer la vrai..... Merci beaucoup .En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Tr\u00e8s contente d'avoir offert se si \u00e0 mon mari \u00e9tant grand fumeur..pour sa sant\u00e9 il a diminuer la cigarette .il vapotte celci beaucoup de bouffer..cela lui passe l'envi de fumer la vrai.....<br>Merci beaucoup .</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R290RHAVJPE87Q/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 5,
+        "date": {
+          "raw": "Comment\u00e9 en France le 22 juin 2023",
+          "utc": "2023-06-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Valerie Ernecq",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AGK6B2K74WGNGPV5JTD53WNESOTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGK6B2K74WGNGPV5JTD53WNESOTA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R3PKOKVB7W3FM4",
+        "title": "Bof",
+        "body": "Un peu d\u00e9\u00e7u pour le prix... le gout n'est pas terrible et n'a absolument pas de heat... en revanche beaucoup de fum\u00e9e !!En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Un peu d\u00e9\u00e7u pour le prix... le gout n'est pas terrible et n'a absolument pas de heat... en revanche beaucoup de fum\u00e9e !!</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R3PKOKVB7W3FM4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 3,
+        "date": {
+          "raw": "Comment\u00e9 en France le 8 novembre 2022",
+          "utc": "2022-11-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Client Amazon",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AFDGW34TQUM7SOEE6WX3QYL2ULDA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFDGW34TQUM7SOEE6WX3QYL2ULDA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R2YK7YE0SC5NNO",
+        "title": "Bon parfum",
+        "body": "L\u00e9ger go\u00fbt de tabac, me glisse entre les doigts car tr\u00e8s lisse, me fait patienter en attendant que je puisse fumer une vraieEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>L\u00e9ger go\u00fbt de tabac, me glisse entre les doigts car tr\u00e8s lisse, me fait patienter en attendant que je puisse fumer une vraie</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R2YK7YE0SC5NNO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 4,
+        "date": {
+          "raw": "Comment\u00e9 en France le 7 novembre 2022",
+          "utc": "2022-11-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Client Dom",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AG5CMXU7WXRVRXUW2VI5LAZGBPQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG5CMXU7WXRVRXUW2VI5LAZGBPQQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R2D8ZF8CI5D55O",
+        "title": "De toute petites taffes",
+        "body": "On peut faire que de toute petites taffes, pas plus. Ca a l'air brid\u00e9, pas suffisant pour moi, j'ai repris la clope.En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>On peut faire que de toute petites taffes, pas plus. Ca a l'air brid\u00e9, pas suffisant pour moi, j'ai repris la clope.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R2D8ZF8CI5D55O/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 3,
+        "date": {
+          "raw": "Comment\u00e9 en France le 17 ao\u00fbt 2022",
+          "utc": "2022-08-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Blop",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AGK7XVORB2ULPZDUCIYIAIMFYN4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGK7XVORB2ULPZDUCIYIAIMFYN4Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R1LX1G2CTM1V6C",
+        "title": "D\u00e9gueulasse !!!!",
+        "body": "Aucun go\u00fbt tabac m\u00eame pas un tout petit peu..ces cigarettes jetables on le go\u00fbt des odeurs dans les magasins chinois. C'est d\u00e9gueulasse !!!! Ne vous recommande pas du toutEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Aucun go\u00fbt tabac m\u00eame pas un tout petit peu..ces cigarettes jetables on le go\u00fbt des odeurs dans les magasins chinois. C'est d\u00e9gueulasse !!!! Ne vous recommande pas du tout</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R1LX1G2CTM1V6C/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 1,
+        "date": {
+          "raw": "Comment\u00e9 en France le 14 ao\u00fbt 2023",
+          "utc": "2023-08-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Aito PONS",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AHBJG7UHORWW6ZHKN7WIV7ADJ7DQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHBJG7UHORWW6ZHKN7WIV7ADJ7DQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R2YEU8ZVO9LBFJ",
+        "title": "Incroyable mais vrai",
+        "body": "Mon \u00e9poux \u00e9tait grand fumeur 2 paquets par jour. Suite \u00e0 une maladie tr\u00e8s grave, il a d\u00fb arr\u00eater imm\u00e9diatement le tabac sinon risque amputation. Je suis tr\u00e8s fi\u00e8re de lui car du jour au lendemain plus rien m\u00eame pas de patchs seul le geste lui manquais donc j ai trouv\u00e9 ce produit\u2026.tr\u00e8s franchement bluffant. Juste la cigarette est lourde. Bravo \u00e0 l inventeurEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Mon \u00e9poux \u00e9tait grand fumeur 2 paquets par jour. Suite \u00e0 une maladie tr\u00e8s grave, il a d\u00fb arr\u00eater imm\u00e9diatement le tabac sinon risque amputation. Je suis tr\u00e8s fi\u00e8re de lui car du jour au lendemain plus rien m\u00eame pas de patchs seul le geste lui manquais donc j ai trouv\u00e9 ce produit\u2026.tr\u00e8s franchement bluffant. Juste la cigarette est lourde.<br>Bravo \u00e0 l inventeur</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R2YEU8ZVO9LBFJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 4,
+        "date": {
+          "raw": "Comment\u00e9 en France le 8 novembre 2021",
+          "utc": "2021-11-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "GAUDET st\u00e9phanie",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AEWACHUEXH5M4VV4QYTCDZS7J7PQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEWACHUEXH5M4VV4QYTCDZS7J7PQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 15,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R3NACKQMSSW8YT",
+        "title": "J\u2019avais craqu\u00e9 sur le format mais trop lourd",
+        "body": "Bien pour le sevrage tabagique mais un peu lourd.En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bien pour le sevrage tabagique mais un peu lourd.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R3NACKQMSSW8YT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 4,
+        "date": {
+          "raw": "Comment\u00e9 en France le 11 septembre 2022",
+          "utc": "2022-09-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marie-Louise",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AGMREHXIFNOIJEGCNNXOEQGUDAVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGMREHXIFNOIJEGCNNXOEQGUDAVQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "RRGXQ2ZQ54R8C",
+        "title": "Cigarette",
+        "body": "J'ai acheter plusieurs cigarettes \u00e9lectronique pour \u00eatre d\u00e9\u00e7u a chaque fois...Mais la je suis plut\u00f4t satisfaite de mon achat. Le gout est assez faible, pas besoin de faire des manipe pour mettre du liquide, et elle ressemble a une clope ce qui rend l'utilisation agr\u00e9able. Je pense en racheter pour faire durer un peu plus longtemps mes vraie clopes. Je suis contente d'avoir pu trouver enfin une cigarette \u00e9lectronique qui conviens a mes attentes.  Je recommande !En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>J'ai acheter plusieurs cigarettes \u00e9lectronique pour \u00eatre d\u00e9\u00e7u a chaque fois...Mais la je suis plut\u00f4t satisfaite de mon achat. Le gout est assez faible, pas besoin de faire des manipe pour mettre du liquide, et elle ressemble a une clope ce qui rend l'utilisation agr\u00e9able.<br>Je pense en racheter pour faire durer un peu plus longtemps mes vraie clopes. Je suis contente d'avoir pu trouver enfin une cigarette \u00e9lectronique qui conviens a mes attentes.<br><br>Je recommande !</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/RRGXQ2ZQ54R8C/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 3,
+        "date": {
+          "raw": "Comment\u00e9 en France le 23 octobre 2020",
+          "utc": "2020-10-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alith\u00e9a",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AHIMPKPNRVQISJ3PC2JNU43RFPOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHIMPKPNRVQISJ3PC2JNU43RFPOA",
+          "image": "https://images-eu.ssl-images-amazon.com/images/S/amazon-avatars-global/02dedffb-bd5c-4577-b575-aed8e339dc6e._CR0,26.0,280,280_SX48_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 18,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R2DSFDSIPTKWLH",
+        "title": "pour \u00eatre efficace, un produit doit fonctionner",
+        "body": "pour un premier achat, tr\u00e8s d\u00e9\u00e7u.nous sommes loin des 500 bouff\u00e9es.Les trois cigarettes se sont \u00e9teintes au bout de trois jours.1 jour chacune.Peut \u00eatre suis-je tomb\u00e9 sur une mauvaise s\u00e9rie.Je viens de faire un nouvel achat, si cela devait se reproduire, vous avez perdu un client.cordialementEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>pour un premier achat, tr\u00e8s d\u00e9\u00e7u.nous sommes loin des 500 bouff\u00e9es.Les trois cigarettes se sont \u00e9teintes au bout de trois jours.1 jour chacune.Peut \u00eatre suis-je tomb\u00e9 sur une mauvaise s\u00e9rie.Je viens de faire un nouvel achat, si cela devait se reproduire, vous avez perdu un client.cordialement</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R2DSFDSIPTKWLH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 1,
+        "date": {
+          "raw": "Comment\u00e9 en France le 12 mai 2023",
+          "utc": "2023-05-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "QUEAU",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AGH2GS5Q7QKULAYUIMLRY6VQBGVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGH2GS5Q7QKULAYUIMLRY6VQBGVA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R10ORP55MHHJFM",
+        "title": "Dur",
+        "body": "Sympa mais tirage difficileEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Sympa mais tirage difficile</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R10ORP55MHHJFM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 3,
+        "date": {
+          "raw": "Comment\u00e9 en France le 4 juillet 2022",
+          "utc": "2022-07-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Leroy sylvie",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AGTVEFNLEORQWCQYRGEFOTCDAE2Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGTVEFNLEORQWCQYRGEFOTCDAE2Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "RWKS0VZYM8Y05",
+        "title": "Sympa pour moins fumer",
+        "body": "Je recherchai une cigarette qui ressemble vraiment \u00e0 une cigarette et cette cigarette m'a permit d arr\u00eat\u00e9 de fumer, c'est une aide pr\u00e9cieuse \ud83d\ude09En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Je recherchai une cigarette qui ressemble vraiment \u00e0 une cigarette et cette cigarette m'a permit d arr\u00eat\u00e9 de fumer, c'est une aide pr\u00e9cieuse \ud83d\ude09</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/RWKS0VZYM8Y05/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 5,
+        "date": {
+          "raw": "Comment\u00e9 en France le 31 janvier 2023",
+          "utc": "2023-01-31T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "LOT",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AHBI3SK2GHMHU3ZSIQVKAFI6VL4Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHBI3SK2GHMHU3ZSIQVKAFI6VL4Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "RHQS7J1GHG9K",
+        "title": "Bof",
+        "body": "Ce produit ressemble beaucoup \u00e0 une vraie cigarette ce qui est sympa, en revanche, niveau go\u00fbt, pas terrible (un m\u00e9lange de go\u00fbt sucr\u00e9 avec je ne sais quoi ..) et niveau bouff\u00e9es, on a pas l'impression \"d'inhaler\" vraiment comme sur une vraie cigarette .. Ne contient pas de nicotine.En lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Ce produit ressemble beaucoup \u00e0 une vraie cigarette ce qui est sympa, en revanche, niveau go\u00fbt, pas terrible (un m\u00e9lange de go\u00fbt sucr\u00e9 avec je ne sais quoi ..) et niveau bouff\u00e9es, on a pas l'impression \"d'inhaler\" vraiment comme sur une vraie cigarette ..<br>Ne contient pas de nicotine.</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/RHQS7J1GHG9K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 2,
+        "date": {
+          "raw": "Comment\u00e9 en France le 6 ao\u00fbt 2022",
+          "utc": "2022-08-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Client d'Amazon",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AEOX5CKHPODI7GP27GVASFI3FQJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEOX5CKHPODI7GP27GVASFI3FQJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "R304TCUW2I00JW",
+        "title": "La ressemblance est correct mais le go\u00fbt est tr\u00e8s bizarre",
+        "body": "Prix correct mais saveur tabac moyenEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Prix correct mais saveur tabac moyen</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/R304TCUW2I00JW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 3,
+        "date": {
+          "raw": "Comment\u00e9 en France le 6 avril 2022",
+          "utc": "2022-04-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Denaix Christine",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AEA7TORHQU4OLYDHPJRFB6MPN3LA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEA7TORHQU4OLYDHPJRFB6MPN3LA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      },
+      {
+        "id": "RCU45QYNZQ7B",
+        "title": "aide a moins fumer",
+        "body": "pour moins fumerEn lire plus",
+        "asin": "B01LZ19D66",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" aria-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>pour moins fumer</span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"></div><a href=\"javascript:void(0)\" data-csa-c-func-deps=\"aui-da-a-expander-toggle\" data-csa-c-type=\"widget\" data-csa-interaction-events=\"click\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Afficher&nbsp;/ Masquer le texte complet du commentaire\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;En lire plus&quot;, &quot;collapse_prompt&quot;:&quot;En lire moins&quot;}\"><i class=\"a-icon a-icon-extender-expand\"></i><span class=\"a-expander-prompt\">En lire plus</span></a></div></div>",
+        "link": "https://www.amazon.fr/gp/customer-reviews/RCU45QYNZQ7B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZ19D66",
+        "rating": 5,
+        "date": {
+          "raw": "Comment\u00e9 en France le 4 mars 2023",
+          "utc": "2023-03-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "michele Araque",
+          "link": "https://www.amazon.fr/gp/profile/amzn1.account.AGWHPAZULZB65DYLUT5HMQTIQXEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGWHPAZULZB65DYLUT5HMQTIQXEQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "fr",
+        "is_global_review": false
+      }
+    ],
+    "additional_details": [
+      {
+        "name": "Petites Entreprises",
+        "value": "Ce produit est propos\u00e9 par une petite ou moyenne entreprise propri\u00e9taire de marque inscrite au registre des marques d'Amazon ou un artisan inscrit \u00e0 Handmade, bas\u00e9 en France. Soutenez les petites entreprises."
+      }
+    ],
+    "additional_details_flat": "Petites Entreprises: Ce produit est propos\u00e9 par une petite ou moyenne entreprise propri\u00e9taire de marque inscrite au registre des marques d'Amazon ou un artisan inscrit \u00e0 Handmade, bas\u00e9 en France. Soutenez les petites entreprises.",
+    "buybox_winner": {
+      "maximum_order_quantity": { "value": 45, "hard_maximum": true },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": { "is_new": true }
+    },
+    "specifications": [
+      { "name": "Caract\u00e9ristique sp\u00e9ciale", "value": "Compact" },
+      { "name": "Saveur", "value": "tabac" },
+      { "name": "Couleur", "value": "Blanc" },
+      { "name": "Poids de l'article", "value": "45 Grammes" }
+    ],
+    "specifications_flat": "Poids de l'article: 45 Grammes. Couleur: Blanc. Saveur: tabac. Caract\u00e9ristique sp\u00e9ciale: Compact.",
+    "color": "Blanc",
+    "weight": "45 Grammes"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "\u20ac",
+      "currency": "EUR",
+      "value": 58.8,
+      "raw": "58,80\u00a0\u20ac"
+    },
+    "products": [
+      {
+        "asin": "B01LZ19D66",
+        "title": "DE- (1 paquet de 3) E-cigarettes jetables au go\u00fbt tabac de 500 bouff\u00e9es chacune (Sans nicotine ni tabac)",
+        "link": "https://www.amazon.fr/dp/B01LZ19D66?tag=everydaycarry0a-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61MBvWzTS6L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 23.9,
+          "raw": "23,90\u20ac"
+        }
+      },
+      {
+        "asin": "B09HHNWLGF",
+        "title": "12 Ezee Cigarette \u00c9lectronique Cartouches Jetables Saveur Menthol Sans Nicotine ni Tabac",
+        "link": "https://www.amazon.fr/dp/B09HHNWLGF?tag=everydaycarry0a-21",
+        "image": "https://images-eu.ssl-images-amazon.com/images/I/61lGWfaH4CL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 34.9,
+          "raw": "34,90\u20ac"
+        }
+      }
+    ]
+  },
+  "also_bought": [
+    {
+      "title": "Vivi Nova - (1 paquet de 2 pi\u00e8ces) E-cigarettes jetables au go\u00fbt tabac (Sans nicotine ni tabac, Vente interdite aux personnes",
+      "asin": "B09JCMCGML",
+      "link": "https://www.amazon.fr/cigarettes-jetables-bouff%C3%A9es-nicotine-unit%C3%A9s/dp/B09JCMCGML/ref=d_pd_vtp_sccl_2_1/261-4382267-7864050?pd_rd_w=qQgQa&content-id=amzn1.sym.4b2a56cb-536d-416c-964d-97705db637be&pf_rd_p=4b2a56cb-536d-416c-964d-97705db637be&pf_rd_r=0ZPX3XN2ETPTW9XNHKYD&pd_rd_wg=8QA5s&pd_rd_r=a8bab9b7-c5a2-4b73-afb4-2c09ec4f9591&pd_rd_i=B09JCMCGML&psc=1&tag=everydaycarry0a-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/51UjqWdnmnL._AC_UL160_SR160,160_.jpg",
+      "rating": 3.3,
+      "ratings_total": 19,
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 16.9,
+        "raw": "\u20ac16,90"
+      }
+    },
+    {
+      "title": "(1 paquet de 5 pi\u00e8ces) E-cigarettes jetables au go\u00fbt tabac de 500 bouff\u00e9es chacune (Sans nicotine ni tabac, Vente interdite a",
+      "asin": "B0BS9JRY5C",
+      "link": "https://www.amazon.fr/cigarettes-jetables-bouff%C3%A9es-interdite-personnes/dp/B0BS9JRY5C/ref=d_pd_vtp_sccl_2_2/261-4382267-7864050?pd_rd_w=qQgQa&content-id=amzn1.sym.4b2a56cb-536d-416c-964d-97705db637be&pf_rd_p=4b2a56cb-536d-416c-964d-97705db637be&pf_rd_r=0ZPX3XN2ETPTW9XNHKYD&pd_rd_wg=8QA5s&pd_rd_r=a8bab9b7-c5a2-4b73-afb4-2c09ec4f9591&pd_rd_i=B0BS9JRY5C&psc=1&tag=everydaycarry0a-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61dyUYLNs4L._AC_UL160_SR160,160_.jpg",
+      "rating": 3.8,
+      "ratings_total": 13,
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 34.9,
+        "raw": "\u20ac34,90"
+      }
+    },
+    {
+      "title": "12 Ezee Cigarette \u00c9lectronique Cartouches Jetables Saveur Menthol Sans Nicotine ni Tabac",
+      "asin": "B01HMHTNA6",
+      "link": "https://www.amazon.fr/filtres-Ezee-Cigarette-%C3%89lectronique-rechargeable/dp/B01HMHTNA6/ref=d_pd_vtp_sccl_2_3/261-4382267-7864050?pd_rd_w=qQgQa&content-id=amzn1.sym.4b2a56cb-536d-416c-964d-97705db637be&pf_rd_p=4b2a56cb-536d-416c-964d-97705db637be&pf_rd_r=0ZPX3XN2ETPTW9XNHKYD&pd_rd_wg=8QA5s&pd_rd_r=a8bab9b7-c5a2-4b73-afb4-2c09ec4f9591&pd_rd_i=B01HMHTNA6&psc=1&tag=everydaycarry0a-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/61lGWfaH4CL._AC_UL160_SR160,160_.jpg",
+      "rating": 3.6,
+      "ratings_total": 122,
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 34.9,
+        "raw": "\u20ac34,90"
+      }
+    },
+    {
+      "title": "VUSE Zero Nicotine \u2013 2 Capsules e-Liquide pour ePod \u2013 Recharge pour Cigarette \u00c9lectronique - Saveur\u00a0: Fusion Fruits des Bois,",
+      "asin": "B0B2YG82L6",
+      "link": "https://www.amazon.fr/VUSE-Zero-Nicotine-Liquide-%C3%89lectronique/dp/B0B2YG82L6/ref=d_pd_vtp_sccl_2_4/261-4382267-7864050?pd_rd_w=qQgQa&content-id=amzn1.sym.4b2a56cb-536d-416c-964d-97705db637be&pf_rd_p=4b2a56cb-536d-416c-964d-97705db637be&pf_rd_r=0ZPX3XN2ETPTW9XNHKYD&pd_rd_wg=8QA5s&pd_rd_r=a8bab9b7-c5a2-4b73-afb4-2c09ec4f9591&pd_rd_i=B0B2YG82L6&psc=1&tag=everydaycarry0a-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/41CdTkANpML._AC_UL160_SR160,160_.jpg",
+      "rating": 4,
+      "ratings_total": 121,
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 8.49,
+        "raw": "\u20ac8,49"
+      }
+    },
+    {
+      "title": "VUSE ePod 2 Kit Simple - Cigarette \u00c9lectronique Automatique \u2013 Chargement Rapide \u2013 Couleur\u00a0: Noir - Compatible avec Capsules V",
+      "asin": "B0B2YMKLLD",
+      "link": "https://www.amazon.fr/VUSE-ePod-Kit-Simple-%C3%89lectronique/dp/B0B2YMKLLD/ref=d_pd_vtp_sccl_2_5/261-4382267-7864050?pd_rd_w=qQgQa&content-id=amzn1.sym.4b2a56cb-536d-416c-964d-97705db637be&pf_rd_p=4b2a56cb-536d-416c-964d-97705db637be&pf_rd_r=0ZPX3XN2ETPTW9XNHKYD&pd_rd_wg=8QA5s&pd_rd_r=a8bab9b7-c5a2-4b73-afb4-2c09ec4f9591&pd_rd_i=B0B2YMKLLD&psc=1&tag=everydaycarry0a-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/31M9hbbrvfL._AC_UL160_SR160,160_.jpg",
+      "rating": 4.4,
+      "ratings_total": 147,
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.99,
+        "raw": "\u20ac9,99"
+      }
+    },
+    {
+      "title": "Cigarette \u00c9lectronique Jetable 2000 Bouff\u00e9es, VAPEN CUBE Vapoteuse \u00c9lectronique, Puff Sans Nicotine 2000 Taff, Pod Vape E Cig",
+      "asin": "B0BTPYW1M2",
+      "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Bouff%C3%A9es-VAPEN-Vapoteuse/dp/B0BTPYW1M2/ref=d_pd_vtp_sccl_2_6/261-4382267-7864050?pd_rd_w=qQgQa&content-id=amzn1.sym.4b2a56cb-536d-416c-964d-97705db637be&pf_rd_p=4b2a56cb-536d-416c-964d-97705db637be&pf_rd_r=0ZPX3XN2ETPTW9XNHKYD&pd_rd_wg=8QA5s&pd_rd_r=a8bab9b7-c5a2-4b73-afb4-2c09ec4f9591&pd_rd_i=B0BTPYW1M2&psc=1&tag=everydaycarry0a-21",
+      "image": "https://images-eu.ssl-images-amazon.com/images/I/71MYyghMS3L._AC_UL160_SR160,160_.jpg",
+      "rating": 4.1,
+      "ratings_total": 89,
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 13.99,
+        "raw": "\u20ac13,99"
+      }
+    }
+  ]
+}

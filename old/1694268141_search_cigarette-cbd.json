@@ -1,0 +1,3509 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": 871,
+    "credits_used_this_request": 2,
+    "credits_remaining": 9129,
+    "credits_reset_at": "2023-09-17T08:17:39.000Z"
+  },
+  "request_parameters": {
+    "type": "search",
+    "amazon_domain": "amazon.fr",
+    "search_term": "cigarette CBD",
+    "associate_id": "everydaycarry0a-21",
+    "max_page": "2"
+  },
+  "request_metadata": {
+    "created_at": "2023-09-09T14:02:10.551Z",
+    "processed_at": "2023-09-09T14:02:21.520Z",
+    "total_time_taken": 10.97,
+    "pages": [
+      {
+        "created_at": "2023-09-09T14:02:10.551Z",
+        "processed_at": "2023-09-09T14:02:14.407Z",
+        "total_time_taken": 3.86,
+        "page": 1,
+        "amazon_url": "https://www.amazon.fr/s/?k=cigarette+CBD&ref=nb_sb_noss_2"
+      },
+      {
+        "created_at": "2023-09-09T14:02:14.407Z",
+        "processed_at": "2023-09-09T14:02:21.520Z",
+        "total_time_taken": 7.11,
+        "page": 2,
+        "amazon_url": "https://www.amazon.fr/s/?k=cigarette+CBD&ref=nb_sb_noss_2&page=2"
+      }
+    ]
+  },
+  "search_results": [
+    {
+      "position": 1,
+      "title": "Ciberate Cigarettes Electroniques Vape Pen Starter Kit cbd Vaping Cartouche de C\u00e9ramique Recharges pour Vape E Juice E-Liquide Huile de Chanvre Bobine sans Nicotine ni Tabac",
+      "asin": "B07ZPYBG11",
+      "link": "https://www.amazon.fr/Ciberate-Cigarettes-Electroniques-Cartouche-C%C3%A9ramique/dp/B07ZPYBG11/ref=sr_1_1?keywords=cigarette+CBD&qid=1694268131&sr=8-1&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71Q11flrV-L._AC_UL400_.jpg",
+      "unit_price": "23,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.8,
+      "ratings_total": 972,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 23.99,
+          "raw": "\u20ac23,99",
+          "asin": "B07ZPYBG11",
+          "link": "https://www.amazon.fr/Ciberate-Cigarettes-Electroniques-Cartouche-C%C3%A9ramique/dp/B07ZPYBG11/ref=sr_1_1?keywords=cigarette+CBD&qid=1694268131&sr=8-1"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 23.99,
+        "raw": "\u20ac23,99",
+        "asin": "B07ZPYBG11",
+        "link": "https://www.amazon.fr/Ciberate-Cigarettes-Electroniques-Cartouche-C%C3%A9ramique/dp/B07ZPYBG11/ref=sr_1_1?keywords=cigarette+CBD&qid=1694268131&sr=8-1"
+      },
+      "page": 1,
+      "position_overall": 1
+    },
+    {
+      "position": 2,
+      "title": "Nectar Honeybee 2.0 | Cigarette \u00c9lectronique CBD Avec Atomizer Rechargeable | Garantie 2 Ans | Port USB-C, Puissance Variable, Bobine en C\u00e9ramique et Batterie 800 mAh (\u00c9dition Sp\u00e9ciale - Vert Alpin)",
+      "asin": "B0C24N2H68",
+      "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Rechargeable-Puissance-C%C3%A9ramique/dp/B0C24N2H68/ref=sr_1_2?keywords=cigarette+CBD&qid=1694268131&sr=8-2&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41S0vc0BuYL._AC_UL400_.jpg",
+      "unit_price": "39,99\u00a0\u20ac/unit\u00e9",
+      "is_prime": true,
+      "rating": 4.5,
+      "ratings_total": 88,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 39.99,
+          "raw": "\u20ac39,99",
+          "name": "39,99\u00a0\u20ac",
+          "asin": "B0C24N2H68",
+          "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Rechargeable-Puissance-C%C3%A9ramique/dp/B0C24N2H68/ref=sr_1_2?keywords=cigarette+CBD&qid=1694268131&sr=8-2"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 39.99,
+        "raw": "\u20ac39,99",
+        "name": "39,99\u00a0\u20ac",
+        "asin": "B0C24N2H68",
+        "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Rechargeable-Puissance-C%C3%A9ramique/dp/B0C24N2H68/ref=sr_1_2?keywords=cigarette+CBD&qid=1694268131&sr=8-2"
+      },
+      "page": 1,
+      "position_overall": 2
+    },
+    {
+      "position": 3,
+      "title": "Vape Puff 95% H4CBD 250 bouff\u00e9es jetable | sans Nicotine | relaxation et bien-\u00eatre | cigarette \u00e9l\u00e9ctronique | go\u00fbt fruits de la passion mangue 0.5ml | sans solvants ni agents de coupe",
+      "asin": "B0CBCSV38N",
+      "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CBCSV38N/ref=sr_1_3?keywords=cigarette+CBD&qid=1694268131&sr=8-3&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 9\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41H6vXZRGSL._AC_UL400_.jpg",
+      "unit_price": "28,90\u00a0\u20ac/Millilitres",
+      "rating": 3.3,
+      "ratings_total": 3,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 28.9,
+          "raw": "\u20ac28,90",
+          "asin": "B0CBCSV38N",
+          "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CBCSV38N/ref=sr_1_3?keywords=cigarette+CBD&qid=1694268131&sr=8-3"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 28.9,
+        "raw": "\u20ac28,90",
+        "asin": "B0CBCSV38N",
+        "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CBCSV38N/ref=sr_1_3?keywords=cigarette+CBD&qid=1694268131&sr=8-3"
+      },
+      "page": 1,
+      "position_overall": 3
+    },
+    {
+      "position": 4,
+      "title": "Vape Puff 95% H4CBD 250 bouff\u00e9es jetable | sans Nicotine | relaxation et bien-\u00eatre | cigarette \u00e9l\u00e9ctronique | go\u00fbt fruit\u00e9es des baies juteuses 0.5ml | sans solvants ni agents de coupe",
+      "asin": "B0CD32W9ML",
+      "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CD32W9ML/ref=sr_1_4?keywords=cigarette+CBD&qid=1694268131&sr=8-4&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 5\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/31Q17-YRSjL._AC_UL400_.jpg",
+      "unit_price": "28,70\u00a0\u20ac/Millilitres",
+      "rating": 1,
+      "ratings_total": 1,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 28.7,
+          "raw": "\u20ac28,70",
+          "name": "28,70\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 29.9,
+          "raw": "\u20ac29,90",
+          "name": "28,70\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 28.7,
+        "raw": "\u20ac28,70",
+        "name": "28,70\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 4
+    },
+    {
+      "position": 5,
+      "title": "DE- (1 paquet de 3) E-cigarettes jetables au go\u00fbt tabac de 500 bouff\u00e9es chacune (Sans nicotine ni tabac)",
+      "asin": "B01LZ19D66",
+      "link": "https://www.amazon.fr/3xE-cigarettes-jetables-bouff%C3%A9es-chacune-nicotine/dp/B01LZ19D66/ref=sr_1_5?keywords=cigarette+CBD&qid=1694268131&sr=8-5&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61MBvWzTS6L._AC_UL400_.jpg",
+      "unit_price": "7,97\u00a0\u20ac/unit\u00e9",
+      "rating": 3.4,
+      "ratings_total": 525,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 23.9,
+          "raw": "\u20ac23,90",
+          "name": "23,90\u00a0\u20ac",
+          "asin": "B01LZ19D66",
+          "link": "https://www.amazon.fr/3xE-cigarettes-jetables-bouff%C3%A9es-chacune-nicotine/dp/B01LZ19D66/ref=sr_1_5?keywords=cigarette+CBD&qid=1694268131&sr=8-5"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 23.9,
+        "raw": "\u20ac23,90",
+        "name": "23,90\u00a0\u20ac",
+        "asin": "B01LZ19D66",
+        "link": "https://www.amazon.fr/3xE-cigarettes-jetables-bouff%C3%A9es-chacune-nicotine/dp/B01LZ19D66/ref=sr_1_5?keywords=cigarette+CBD&qid=1694268131&sr=8-5"
+      },
+      "page": 1,
+      "position_overall": 5
+    },
+    {
+      "position": 6,
+      "title": "VUSE Cigarette \u00c9lectronique Kit Complet - 1 ePod + 2 Capsules e-Liquide pour ePod \u2013 Recharge pour Cigarette \u00c9lectronique - Saveur : Menthe Ice",
+      "asin": "B0C5S1LN58",
+      "link": "https://www.amazon.fr/VUSE-Cigarette-%C3%89lectronique-Complet-Liquide/dp/B0C5S1LN58/ref=sr_1_6?keywords=cigarette+CBD&qid=1694268131&sr=8-6&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 1\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51JEzdozBTL._AC_UL400_.jpg",
+      "rating": 5,
+      "ratings_total": 4,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 18.48,
+          "raw": "\u20ac18,48",
+          "name": "18,48\u00a0\u20ac",
+          "asin": "B0C5S1LN58",
+          "link": "https://www.amazon.fr/VUSE-Cigarette-%C3%89lectronique-Complet-Liquide/dp/B0C5S1LN58/ref=sr_1_6?keywords=cigarette+CBD&qid=1694268131&sr=8-6"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 18.48,
+        "raw": "\u20ac18,48",
+        "name": "18,48\u00a0\u20ac",
+        "asin": "B0C5S1LN58",
+        "link": "https://www.amazon.fr/VUSE-Cigarette-%C3%89lectronique-Complet-Liquide/dp/B0C5S1LN58/ref=sr_1_6?keywords=cigarette+CBD&qid=1694268131&sr=8-6"
+      },
+      "page": 1,
+      "position_overall": 6
+    },
+    {
+      "position": 7,
+      "title": "VAPORVERSE Paquet de 4 Cigarette \u00e9lectronique Jetable 600 Bouff\u00e9es Sans Nicotine Vapoteuse Electronique Fruit\u00e9 Puff Vape Kit de d\u00e9marrage (Fraise Glac\u00e9e+Litchi Glac\u00e9e+Pomme+Past\u00e8que Glac\u00e9e)",
+      "asin": "B09YYNHVK9",
+      "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Vapoteuse-Electronique/dp/B09YYNHVK9/ref=sr_1_7?keywords=cigarette+CBD&qid=1694268131&sr=8-7&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81uzRQEqV8L._AC_UL400_.jpg",
+      "unit_price": "5,23\u00a0\u20ac/Total",
+      "rating": 4,
+      "ratings_total": 127,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 20.9,
+          "raw": "\u20ac20,90",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 21.5,
+          "raw": "\u20ac21,50",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 20.9,
+        "raw": "\u20ac20,90",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 7
+    },
+    {
+      "position": 8,
+      "title": "Vape avec concentr\u00e9 CBD 300 mg (15%) | 600 bouff\u00e9es | Saveur de Myrtille et de Baies Bleues | Sans nicotine | Cigarette \u00e9lectronique jetable | DARWIN CBD",
+      "asin": "B0C3HWYK8W",
+      "link": "https://www.amazon.fr/concentr%C3%A9-CBD-bouff%C3%A9es-Cigarette-%C3%A9lectronique/dp/B0C3HWYK8W/ref=sr_1_8?keywords=cigarette+CBD&qid=1694268131&sr=8-8&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51ndYmRzy+L._AC_UL400_.jpg",
+      "unit_price": "19,90\u00a0\u20ac/Total",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "asin": "B0C3HWYK8W",
+          "link": "https://www.amazon.fr/concentr%C3%A9-CBD-bouff%C3%A9es-Cigarette-%C3%A9lectronique/dp/B0C3HWYK8W/ref=sr_1_8?keywords=cigarette+CBD&qid=1694268131&sr=8-8"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "asin": "B0C3HWYK8W",
+        "link": "https://www.amazon.fr/concentr%C3%A9-CBD-bouff%C3%A9es-Cigarette-%C3%A9lectronique/dp/B0C3HWYK8W/ref=sr_1_8?keywords=cigarette+CBD&qid=1694268131&sr=8-8"
+      },
+      "page": 1,
+      "position_overall": 8
+    },
+    {
+      "position": 9,
+      "title": "E-liquide Relax 50ml - Eliquid France - Sans tabac ni nicotine - Vente interdite au moins de 18 ans - Produit vendu \u00e0 l'unit\u00e9- Genre : 0 mg",
+      "asin": "B07JVX839K",
+      "link": "https://www.amazon.fr/liquide-Relax-50ml-nicotine-interdite/dp/B07JVX839K/ref=sr_1_9?keywords=cigarette+CBD&qid=1694268131&sr=8-9&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41xUEnUfLdL._AC_UL400_.jpg",
+      "unit_price": "219,80\u00a0\u20ac/l",
+      "rating": 4.2,
+      "ratings_total": 93,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 10.99,
+          "raw": "\u20ac10,99",
+          "name": "10,99\u00a0\u20ac",
+          "asin": "B07JVX839K",
+          "link": "https://www.amazon.fr/liquide-Relax-50ml-nicotine-interdite/dp/B07JVX839K/ref=sr_1_9?keywords=cigarette+CBD&qid=1694268131&sr=8-9"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 10.99,
+        "raw": "\u20ac10,99",
+        "name": "10,99\u00a0\u20ac",
+        "asin": "B07JVX839K",
+        "link": "https://www.amazon.fr/liquide-Relax-50ml-nicotine-interdite/dp/B07JVX839K/ref=sr_1_9?keywords=cigarette+CBD&qid=1694268131&sr=8-9"
+      },
+      "page": 1,
+      "position_overall": 9
+    },
+    {
+      "position": 10,
+      "title": "VAPORVERSE Paquet de 4 Cigarette \u00e9lectronique Jetable 600 Bouff\u00e9es sans nicotine Vapoteuse Fruit\u00e9 e-liquide \u00e0 Saveur de Fruits Vapeur Puffs Bar (4 x Menthe)",
+      "asin": "B0B2JS1HS5",
+      "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Vapoteuse/dp/B0B2JS1HS5/ref=sr_1_10?keywords=cigarette+CBD&qid=1694268131&sr=8-10&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81thUgEv4JL._AC_UL400_.jpg",
+      "unit_price": "4,98\u00a0\u20ac/Count",
+      "rating": 4.1,
+      "ratings_total": 87,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "name": "19,90\u00a0\u20ac",
+          "asin": "B0B2JS1HS5",
+          "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Vapoteuse/dp/B0B2JS1HS5/ref=sr_1_10?keywords=cigarette+CBD&qid=1694268131&sr=8-10"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "name": "19,90\u00a0\u20ac",
+        "asin": "B0B2JS1HS5",
+        "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Vapoteuse/dp/B0B2JS1HS5/ref=sr_1_10?keywords=cigarette+CBD&qid=1694268131&sr=8-10"
+      },
+      "page": 1,
+      "position_overall": 10
+    },
+    {
+      "position": 11,
+      "title": "Justfog Q16 Kit de d\u00e9marrage Style stylo vape Cigarettes \u00e9lectroniques avec J-Easy 9 Mod (Rose)",
+      "asin": "B07KK6QPBC",
+      "link": "https://www.amazon.fr/Justfog-d%C3%A9marrage-Cigarettes-%C3%A9lectroniques-J-Easy/dp/B07KK6QPBC/ref=sr_1_11?keywords=cigarette+CBD&qid=1694268131&sr=8-11&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61tAusdb75L._AC_UL400_.jpg",
+      "unit_price": "19,50\u00a0\u20ac/unit\u00e9",
+      "rating": 4,
+      "ratings_total": 3788,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.5,
+          "raw": "\u20ac19,50",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 20.01,
+          "raw": "\u20ac20,01",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.5,
+        "raw": "\u20ac19,50",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 11
+    },
+    {
+      "position": 12,
+      "title": "NINE REALMS HHC Stylo Vape \u2013 CLASSIC | Jetable | Skittlez | 90 % HHC | 200 tours | 0.5 ml",
+      "asin": "B0C7GSWDDB",
+      "link": "https://www.amazon.fr/NINE-REALMS-HHC-Stylo-Vape/dp/B0C7GSWDDB/ref=sr_1_12?keywords=cigarette+CBD&qid=1694268131&sr=8-12&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/415dp6wFuTL._AC_UL400_.jpg",
+      "unit_price": "38,75\u00a0\u20ac/Unit\u00e9",
+      "rating": 4.7,
+      "ratings_total": 5,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 38.75,
+          "raw": "\u20ac38,75",
+          "asin": "B0C7GSWDDB",
+          "link": "https://www.amazon.fr/NINE-REALMS-HHC-Stylo-Vape/dp/B0C7GSWDDB/ref=sr_1_12?keywords=cigarette+CBD&qid=1694268131&sr=8-12"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 38.75,
+        "raw": "\u20ac38,75",
+        "asin": "B0C7GSWDDB",
+        "link": "https://www.amazon.fr/NINE-REALMS-HHC-Stylo-Vape/dp/B0C7GSWDDB/ref=sr_1_12?keywords=cigarette+CBD&qid=1694268131&sr=8-12"
+      },
+      "page": 1,
+      "position_overall": 12
+    },
+    {
+      "position": 13,
+      "title": "IMECIG 2 Pack Cigarettes \u00e9lectroniques Vape Starter Kits Ego CE4 /H2 Facile Top Fill Atomizer Tank Batterie Rechargeable USB longue dur\u00e9e 1100mAh Sans Nicotine Sans Tabac",
+      "asin": "B08H56515M",
+      "link": "https://www.amazon.fr/IMECIG-Cigarettes-%C3%A9lectroniques-Atomizer-Rechargeable/dp/B08H56515M/ref=sr_1_13?keywords=cigarette+CBD&qid=1694268131&sr=8-13&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51SzjA6MVmL._AC_UL400_.jpg",
+      "unit_price": "11,00\u00a0\u20ac/unit\u00e9",
+      "rating": 3.5,
+      "ratings_total": 524,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 21.99,
+          "raw": "\u20ac21,99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 39.99,
+          "raw": "\u20ac39,99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 21.99,
+        "raw": "\u20ac21,99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 13
+    },
+    {
+      "position": 14,
+      "title": "VAPORVERSE Cigarette \u00e9lectronique Jetable 600 Bouff\u00e9es-Sans Nicotine Vapoteuse Electronique fruit\u00e9 e-liquide \u00e0 Saveur de Fruits Vapeur Kit de d\u00e9marrage (Menthe x 2)",
+      "asin": "B09VY1QJNB",
+      "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Sans-Electronique/dp/B09VY1QJNB/ref=sr_1_14?keywords=cigarette+CBD&qid=1694268131&sr=8-14&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81YDPXngM+L._AC_UL400_.jpg",
+      "unit_price": "6,25\u00a0\u20ac/Total",
+      "rating": 3.9,
+      "ratings_total": 44,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 12.5,
+          "raw": "\u20ac12,50",
+          "asin": "B09VY1QJNB",
+          "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Sans-Electronique/dp/B09VY1QJNB/ref=sr_1_14?keywords=cigarette+CBD&qid=1694268131&sr=8-14"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 12.5,
+        "raw": "\u20ac12,50",
+        "asin": "B09VY1QJNB",
+        "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Sans-Electronique/dp/B09VY1QJNB/ref=sr_1_14?keywords=cigarette+CBD&qid=1694268131&sr=8-14"
+      },
+      "page": 1,
+      "position_overall": 14
+    },
+    {
+      "position": 15,
+      "title": "E-LIQUIDE 50ML SAVEUR FRUIT DU DRAGON GLAC\u00c9 - FRESHY - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C2ZKYY6C",
+      "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-FRUIT-DRAGON-CIGARETTE/dp/B0C2ZKYY6C/ref=sr_1_15?keywords=cigarette+CBD&qid=1694268131&sr=8-15&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61ltE3PsKiL._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 3.9,
+      "ratings_total": 3,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C2ZKYY6C",
+          "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-FRUIT-DRAGON-CIGARETTE/dp/B0C2ZKYY6C/ref=sr_1_15?keywords=cigarette+CBD&qid=1694268131&sr=8-15"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C2ZKYY6C",
+        "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-FRUIT-DRAGON-CIGARETTE/dp/B0C2ZKYY6C/ref=sr_1_15?keywords=cigarette+CBD&qid=1694268131&sr=8-15"
+      },
+      "page": 1,
+      "position_overall": 15
+    },
+    {
+      "position": 16,
+      "title": "Wolfteeth 1.0ML CBD Atomiseur Drip tip Acier inoxydable Noyau C\u00e9ramique, Cartouche de vape \u00e0 510 Jetable pour CBD et Stylo de vape \u00e0 l\u2019huile \u00e9paisse, Sans Nicotine Ni Tabac, Pas d\u2019e-liquide CBD/Or",
+      "asin": "B07MJKPPQB",
+      "link": "https://www.amazon.fr/Wolfteeth-Atomiseur-inoxydable-C%C3%A9ramique-Cartouche/dp/B07MJKPPQB/ref=sr_1_16?keywords=cigarette+CBD&qid=1694268131&sr=8-16&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 2\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/7181Yql6wkL._AC_UL400_.jpg",
+      "unit_price": "374,00\u00a0\u20ac/kg",
+      "rating": 3.7,
+      "ratings_total": 143,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 7.48,
+          "raw": "\u20ac7,48",
+          "name": "7,48\u00a0\u20ac",
+          "asin": "B07MJKPPQB",
+          "link": "https://www.amazon.fr/Wolfteeth-Atomiseur-inoxydable-C%C3%A9ramique-Cartouche/dp/B07MJKPPQB/ref=sr_1_16?keywords=cigarette+CBD&qid=1694268131&sr=8-16"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 7.48,
+        "raw": "\u20ac7,48",
+        "name": "7,48\u00a0\u20ac",
+        "asin": "B07MJKPPQB",
+        "link": "https://www.amazon.fr/Wolfteeth-Atomiseur-inoxydable-C%C3%A9ramique-Cartouche/dp/B07MJKPPQB/ref=sr_1_16?keywords=cigarette+CBD&qid=1694268131&sr=8-16"
+      },
+      "page": 1,
+      "position_overall": 16
+    },
+    {
+      "position": 17,
+      "title": "Smok IPX 80 Kit 5.5ml | Original SMOK IPX 80 Kit Vape 80W 3000mAh Battery 5.5ml RPM 2 Pod With Mesh 0.16ohm DC 0.6\u03a9 MTL Coil Vapor Sans nicotine ni tabac",
+      "asin": "B08SQV8P72",
+      "link": "https://www.amazon.fr/Original-3000mAh-Battery-0-16ohm-nicotine/dp/B08SQV8P72/ref=sr_1_17?keywords=cigarette+CBD&qid=1694268131&sr=8-17&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61LMS9twbFL._AC_UL400_.jpg",
+      "unit_price": "35,49\u00a0\u20ac/unit\u00e9",
+      "is_prime": true,
+      "rating": 4.1,
+      "ratings_total": 33,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 35.49,
+          "raw": "\u20ac35,49",
+          "name": "35,49\u00a0\u20ac",
+          "asin": "B08SQV8P72",
+          "link": "https://www.amazon.fr/Original-3000mAh-Battery-0-16ohm-nicotine/dp/B08SQV8P72/ref=sr_1_17?keywords=cigarette+CBD&qid=1694268131&sr=8-17"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 35.49,
+        "raw": "\u20ac35,49",
+        "name": "35,49\u00a0\u20ac",
+        "asin": "B08SQV8P72",
+        "link": "https://www.amazon.fr/Original-3000mAh-Battery-0-16ohm-nicotine/dp/B08SQV8P72/ref=sr_1_17?keywords=cigarette+CBD&qid=1694268131&sr=8-17"
+      },
+      "page": 1,
+      "position_overall": 17
+    },
+    {
+      "position": 18,
+      "title": "Justfog Q16 Kit complet - BLACK NOIR 900mAh (Produit sans nicotine)",
+      "asin": "B01N5XW60Z",
+      "link": "https://www.amazon.fr/Justfog-Q16-Kit-complet-nicotine/dp/B01N5XW60Z/ref=sr_1_18?keywords=cigarette+CBD&qid=1694268131&sr=8-18&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61reYBsUm9L._AC_UL400_.jpg",
+      "rating": 4.1,
+      "ratings_total": 3751,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 35.9,
+          "raw": "\u20ac35,90",
+          "asin": "B01N5XW60Z",
+          "link": "https://www.amazon.fr/Justfog-Q16-Kit-complet-nicotine/dp/B01N5XW60Z/ref=sr_1_18?keywords=cigarette+CBD&qid=1694268131&sr=8-18"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 35.9,
+        "raw": "\u20ac35,90",
+        "asin": "B01N5XW60Z",
+        "link": "https://www.amazon.fr/Justfog-Q16-Kit-complet-nicotine/dp/B01N5XW60Z/ref=sr_1_18?keywords=cigarette+CBD&qid=1694268131&sr=8-18"
+      },
+      "page": 1,
+      "position_overall": 18
+    },
+    {
+      "position": 19,
+      "title": "VAPORVERSE Paquet de 2 Cigarette \u00e9lectronique Jetable 600 Bouff\u00e9es sans nicotine Vapoteuse Fruit\u00e9 e-liquide \u00e0 Saveur de Fruits Vapeur Puffs Bar (2 x Menthe)",
+      "asin": "B0B2LMGXK2",
+      "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Vapoteuse/dp/B0B2LMGXK2/ref=sr_1_19?keywords=cigarette+CBD&qid=1694268131&sr=8-19&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81Hjy4BADhL._AC_UL400_.jpg",
+      "unit_price": "6,45\u00a0\u20ac/Count",
+      "rating": 3.4,
+      "ratings_total": 17,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 12.9,
+          "raw": "\u20ac12,90",
+          "name": "12,90\u00a0\u20ac",
+          "asin": "B0B2LMGXK2",
+          "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Vapoteuse/dp/B0B2LMGXK2/ref=sr_1_19?keywords=cigarette+CBD&qid=1694268131&sr=8-19"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 12.9,
+        "raw": "\u20ac12,90",
+        "name": "12,90\u00a0\u20ac",
+        "asin": "B0B2LMGXK2",
+        "link": "https://www.amazon.fr/VAPORVERSE-Cigarette-%C3%A9lectronique-Bouff%C3%A9es-Vapoteuse/dp/B0B2LMGXK2/ref=sr_1_19?keywords=cigarette+CBD&qid=1694268131&sr=8-19"
+      },
+      "page": 1,
+      "position_overall": 19
+    },
+    {
+      "position": 20,
+      "title": "Kamry K1000 Plus Bois E Pipe, 1000mAh 2ml Atomiseur 30W Vapor,Sans Nicotine ni Tabac (Bois)",
+      "asin": "B075D49YW2",
+      "link": "https://www.amazon.fr/Kamry-K1000-1000mAh-Atomiseur-nicotine/dp/B075D49YW2/ref=sr_1_20?keywords=cigarette+CBD&qid=1694268131&sr=8-20&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51PxDskrupL._AC_UL400_.jpg",
+      "unit_price": "44,99\u00a0\u20ac/unit\u00e9",
+      "is_prime": true,
+      "rating": 4,
+      "ratings_total": 880,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 44.99,
+          "raw": "\u20ac44,99",
+          "name": "44,99\u00a0\u20ac",
+          "asin": "B075D49YW2",
+          "link": "https://www.amazon.fr/Kamry-K1000-1000mAh-Atomiseur-nicotine/dp/B075D49YW2/ref=sr_1_20?keywords=cigarette+CBD&qid=1694268131&sr=8-20"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 44.99,
+        "raw": "\u20ac44,99",
+        "name": "44,99\u00a0\u20ac",
+        "asin": "B075D49YW2",
+        "link": "https://www.amazon.fr/Kamry-K1000-1000mAh-Atomiseur-nicotine/dp/B075D49YW2/ref=sr_1_20?keywords=cigarette+CBD&qid=1694268131&sr=8-20"
+      },
+      "page": 1,
+      "position_overall": 20
+    },
+    {
+      "position": 21,
+      "title": "E-cigarette \u00e9lectronique Kit Complet Stylo, Ovuul EGO-T CE4 Mini Vape Pen de D\u00e9butant AIO Atomiseur Vapoteuse Avec 1100mAh Batterie Rechargeable E-Chicha Sans Nicotine Ni Tabac",
+      "asin": "B07JXS49M2",
+      "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-Atomiseur-Vapoteuse-Rechargeable/dp/B07JXS49M2/ref=sr_1_21?keywords=cigarette+CBD&qid=1694268131&sr=8-21&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71vBb59wu6L._AC_UL400_.jpg",
+      "unit_price": "107,00\u00a0\u20ac/kg",
+      "rating": 3.7,
+      "ratings_total": 735,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 21.4,
+          "raw": "\u20ac21,40",
+          "asin": "B07JXS49M2",
+          "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-Atomiseur-Vapoteuse-Rechargeable/dp/B07JXS49M2/ref=sr_1_21?keywords=cigarette+CBD&qid=1694268131&sr=8-21"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 21.4,
+        "raw": "\u20ac21,40",
+        "asin": "B07JXS49M2",
+        "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-Atomiseur-Vapoteuse-Rechargeable/dp/B07JXS49M2/ref=sr_1_21?keywords=cigarette+CBD&qid=1694268131&sr=8-21"
+      },
+      "page": 1,
+      "position_overall": 21
+    },
+    {
+      "position": 22,
+      "title": "Zest Bar PUFF cigarette \u00e9lectronique rechargeable sans nicotine, 8000 bouff\u00e9es, cigarette \u00e9lectronique \u00e0 dosette jetable 600mAh (Glace \u00e0 la past\u00e8que)",
+      "asin": "B0C58NRF43",
+      "link": "https://www.amazon.fr/Zest-Bar-cigarette-%C3%A9lectronique-rechargeable/dp/B0C58NRF43/ref=sr_1_22?keywords=cigarette+CBD&qid=1694268131&sr=8-22&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 10\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61L-djYrg9L._AC_UL400_.jpg",
+      "unit_price": "16,99\u00a0\u20ac/Pi\u00e8ce",
+      "rating": 3.7,
+      "ratings_total": 47,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 16.99,
+          "raw": "\u20ac16,99",
+          "asin": "B0C58NRF43",
+          "link": "https://www.amazon.fr/Zest-Bar-cigarette-%C3%A9lectronique-rechargeable/dp/B0C58NRF43/ref=sr_1_22?keywords=cigarette+CBD&qid=1694268131&sr=8-22"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 16.99,
+        "raw": "\u20ac16,99",
+        "asin": "B0C58NRF43",
+        "link": "https://www.amazon.fr/Zest-Bar-cigarette-%C3%A9lectronique-rechargeable/dp/B0C58NRF43/ref=sr_1_22?keywords=cigarette+CBD&qid=1694268131&sr=8-22"
+      },
+      "page": 1,
+      "position_overall": 22
+    },
+    {
+      "position": 23,
+      "title": "UBUNG 420 Joints pr\u00e9-roul\u00e9s de 7 mm | Unbleached pre-rolled tips | Carton a rouler has been made into a finished filtre pr\u00e9 roul\u00e9",
+      "asin": "B0995CZJQG",
+      "link": "https://www.amazon.fr/UBUNG-pr%C3%A9-roul%C3%A9s-Unbleached-pre-rolled-finished/dp/B0995CZJQG/ref=sr_1_23?keywords=cigarette+CBD&qid=1694268131&sr=8-23&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81kaLcLPvAL._AC_UL400_.jpg",
+      "unit_price": "0,03\u00a0\u20ac/unit\u00e9",
+      "rating": 4.6,
+      "ratings_total": 922,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 13.99,
+          "raw": "\u20ac13,99",
+          "asin": "B0995CZJQG",
+          "link": "https://www.amazon.fr/UBUNG-pr%C3%A9-roul%C3%A9s-Unbleached-pre-rolled-finished/dp/B0995CZJQG/ref=sr_1_23?keywords=cigarette+CBD&qid=1694268131&sr=8-23"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 13.99,
+        "raw": "\u20ac13,99",
+        "asin": "B0995CZJQG",
+        "link": "https://www.amazon.fr/UBUNG-pr%C3%A9-roul%C3%A9s-Unbleached-pre-rolled-finished/dp/B0995CZJQG/ref=sr_1_23?keywords=cigarette+CBD&qid=1694268131&sr=8-23"
+      },
+      "page": 1,
+      "position_overall": 23
+    },
+    {
+      "position": 24,
+      "title": "E-LIQUIDE 50ML SAVEUR DRAGIBUS - MIX - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C35MJN5Y",
+      "link": "https://www.amazon.fr/LIQUIDE-50ML-SAVEUR-DRAGIBUS-CIGARETTE/dp/B0C35MJN5Y/ref=sr_1_24?keywords=cigarette+CBD&qid=1694268131&sr=8-24&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51gsAnaR7ZL._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 3.7,
+      "ratings_total": 35,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C35MJN5Y",
+          "link": "https://www.amazon.fr/LIQUIDE-50ML-SAVEUR-DRAGIBUS-CIGARETTE/dp/B0C35MJN5Y/ref=sr_1_24?keywords=cigarette+CBD&qid=1694268131&sr=8-24"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C35MJN5Y",
+        "link": "https://www.amazon.fr/LIQUIDE-50ML-SAVEUR-DRAGIBUS-CIGARETTE/dp/B0C35MJN5Y/ref=sr_1_24?keywords=cigarette+CBD&qid=1694268131&sr=8-24"
+      },
+      "page": 1,
+      "position_overall": 24
+    },
+    {
+      "position": 25,
+      "title": "Flawoor. E cigarette jetable 600 puffs Energy drink 0%- Sans tabac- Sans nicotine",
+      "asin": "B09TRK2LB5",
+      "link": "https://www.amazon.fr/Flawoor-cigarette-jetable-Energy-nicotine/dp/B09TRK2LB5/ref=sr_1_25?keywords=cigarette+CBD&qid=1694268131&sr=8-25&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 13\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41TvDCEIIXL._AC_UL400_.jpg",
+      "unit_price": "6,85\u00a0\u20ac/unit\u00e9",
+      "rating": 3.1,
+      "ratings_total": 11,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.85,
+          "raw": "\u20ac6,85",
+          "name": "6,85\u00a0\u20ac",
+          "asin": "B09TRK2LB5",
+          "link": "https://www.amazon.fr/Flawoor-cigarette-jetable-Energy-nicotine/dp/B09TRK2LB5/ref=sr_1_25?keywords=cigarette+CBD&qid=1694268131&sr=8-25"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.85,
+        "raw": "\u20ac6,85",
+        "name": "6,85\u00a0\u20ac",
+        "asin": "B09TRK2LB5",
+        "link": "https://www.amazon.fr/Flawoor-cigarette-jetable-Energy-nicotine/dp/B09TRK2LB5/ref=sr_1_25?keywords=cigarette+CBD&qid=1694268131&sr=8-25"
+      },
+      "page": 1,
+      "position_overall": 25
+    },
+    {
+      "position": 26,
+      "title": "Cigarette Electronique Kit Complet, Lovaper 60W avec Box Mods Batterie 2200mAh & Vape avec R\u00e9sistance 0,5ohm, Top Fill Atomiseur 2ml, E cigarette sans Nicotine ni Tabac",
+      "asin": "B07X4V7ZHH",
+      "link": "https://www.amazon.fr/Electronique-Lovaper-Cigarettes-%C3%A9lectroniques-R%C3%A9sistance/dp/B07X4V7ZHH/ref=sr_1_26?keywords=cigarette+CBD&qid=1694268131&sr=8-26&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/619Ts0ZcitL._AC_UL400_.jpg",
+      "unit_price": "152,58\u00a0\u20ac/kg",
+      "is_prime": true,
+      "rating": 3.6,
+      "ratings_total": 686,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 28.99,
+          "raw": "\u20ac28,99",
+          "asin": "B07X4V7ZHH",
+          "link": "https://www.amazon.fr/Electronique-Lovaper-Cigarettes-%C3%A9lectroniques-R%C3%A9sistance/dp/B07X4V7ZHH/ref=sr_1_26?keywords=cigarette+CBD&qid=1694268131&sr=8-26"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 28.99,
+        "raw": "\u20ac28,99",
+        "asin": "B07X4V7ZHH",
+        "link": "https://www.amazon.fr/Electronique-Lovaper-Cigarettes-%C3%A9lectroniques-R%C3%A9sistance/dp/B07X4V7ZHH/ref=sr_1_26?keywords=cigarette+CBD&qid=1694268131&sr=8-26"
+      },
+      "page": 1,
+      "position_overall": 26
+    },
+    {
+      "position": 27,
+      "title": "Imecig E Cigarettes Vape Pens Starter Kit Cigarette \u00e9lectronique Complet Vape Pod Kit Rechargeable Ecig Vaping Cartouche en c\u00e9ramique pour CBD Oil Vape E Juice E-Liquid Liquid Non Nicotine Non Tobacco",
+      "asin": "B0BDRPWHH9",
+      "link": "https://www.amazon.fr/Cigarettes-Cigarette-%C3%A9lectronique-Rechargeable-Cartouche/dp/B0BDRPWHH9/ref=sr_1_27?keywords=cigarette+CBD&qid=1694268131&sr=8-27&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/7142tbZAHKL._AC_UL400_.jpg",
+      "unit_price": "19,99\u00a0\u20ac/Pi\u00e8ce",
+      "rating": 3.3,
+      "ratings_total": 77,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.99,
+          "raw": "\u20ac19,99",
+          "name": "19,99\u00a0\u20ac",
+          "asin": "B0BDRPWHH9",
+          "link": "https://www.amazon.fr/Cigarettes-Cigarette-%C3%A9lectronique-Rechargeable-Cartouche/dp/B0BDRPWHH9/ref=sr_1_27?keywords=cigarette+CBD&qid=1694268131&sr=8-27"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.99,
+        "raw": "\u20ac19,99",
+        "name": "19,99\u00a0\u20ac",
+        "asin": "B0BDRPWHH9",
+        "link": "https://www.amazon.fr/Cigarettes-Cigarette-%C3%A9lectronique-Rechargeable-Cartouche/dp/B0BDRPWHH9/ref=sr_1_27?keywords=cigarette+CBD&qid=1694268131&sr=8-27"
+      },
+      "page": 1,
+      "position_overall": 27
+    },
+    {
+      "position": 28,
+      "title": "e-liquide e-saveur e-kanbi Fruit du Dragon Frais fabriqu\u00e9 en france Gassan",
+      "asin": "B0972V53TB",
+      "link": "https://www.amazon.fr/liquide-saveur-kanbi-Dragon-fabriqu%C3%A9/dp/B0972V53TB/ref=sr_1_28?keywords=cigarette+CBD&qid=1694268131&sr=8-28&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61uTfW0wjfS._AC_UL400_.jpg",
+      "unit_price": "190,00\u00a0\u20ac/l",
+      "rating": 4.3,
+      "ratings_total": 280,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.5,
+          "raw": "\u20ac9,50",
+          "asin": "B0972V53TB",
+          "link": "https://www.amazon.fr/liquide-saveur-kanbi-Dragon-fabriqu%C3%A9/dp/B0972V53TB/ref=sr_1_28?keywords=cigarette+CBD&qid=1694268131&sr=8-28"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.5,
+        "raw": "\u20ac9,50",
+        "asin": "B0972V53TB",
+        "link": "https://www.amazon.fr/liquide-saveur-kanbi-Dragon-fabriqu%C3%A9/dp/B0972V53TB/ref=sr_1_28?keywords=cigarette+CBD&qid=1694268131&sr=8-28"
+      },
+      "page": 1,
+      "position_overall": 28
+    },
+    {
+      "position": 29,
+      "title": "Big Puff. E cigarette jetable 600 puffs Banane \u00e0 la fraise 0%- Sans tabac- Sans nicotine",
+      "asin": "B09ZKXGJJH",
+      "link": "https://www.amazon.fr/cigarette-jetable-Banane-fraise-nicotine/dp/B09ZKXGJJH/ref=sr_1_29?keywords=cigarette+CBD&qid=1694268131&sr=8-29&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41SxqjpWPgL._AC_UL400_.jpg",
+      "unit_price": "7,40\u00a0\u20ac/unit\u00e9",
+      "rating": 4.2,
+      "ratings_total": 29,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 7.4,
+          "raw": "\u20ac7,40",
+          "name": "7,40\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 7.79,
+          "raw": "\u20ac7,79",
+          "name": "7,40\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 7.4,
+        "raw": "\u20ac7,40",
+        "name": "7,40\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 29
+    },
+    {
+      "position": 30,
+      "title": "Vape avec concentr\u00e9 CBD 300 mg (15%) | 600 bouff\u00e9es | Saveur de Cola | Sans nicotine | Cigarette \u00e9lectronique jetable | DARWIN CBD",
+      "asin": "B0C3J7NK7D",
+      "link": "https://www.amazon.fr/dp/B0C3J7NK7D/ref=sr_1_30?keywords=cigarette+CBD&qid=1694268131&sr=8-30&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51DUnAk+VWL._AC_UL400_.jpg",
+      "unit_price": "19,90\u00a0\u20ac/Total",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "asin": "B0C3J7NK7D",
+          "link": "https://www.amazon.fr/dp/B0C3J7NK7D/ref=sr_1_30?keywords=cigarette+CBD&qid=1694268131&sr=8-30"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "asin": "B0C3J7NK7D",
+        "link": "https://www.amazon.fr/dp/B0C3J7NK7D/ref=sr_1_30?keywords=cigarette+CBD&qid=1694268131&sr=8-30"
+      },
+      "page": 1,
+      "position_overall": 30
+    },
+    {
+      "position": 31,
+      "title": "Smorter 50mlx4 Vape E Liquide Ecig Vape E Juice Juicy Flavor 70/30 Eliquid Myrtille Melon Banane Framboise pour Cigarette \u00e9lectronique Vape Pen Kit de d\u00e9marrage sans nicotine et tabac",
+      "asin": "B08ZXN6P18",
+      "link": "https://www.amazon.fr/Smorter-Framboise-Cigarette-%C3%A9lectronique-d%C3%A9marrage/dp/B08ZXN6P18/ref=sr_1_31?keywords=cigarette+CBD&qid=1694268131&sr=8-31&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81qwrebDcBL._AC_UL400_.jpg",
+      "unit_price": "94,95\u00a0\u20ac/l",
+      "rating": 4,
+      "ratings_total": 444,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 18.99,
+          "raw": "\u20ac18,99",
+          "asin": "B08ZXN6P18",
+          "link": "https://www.amazon.fr/Smorter-Framboise-Cigarette-%C3%A9lectronique-d%C3%A9marrage/dp/B08ZXN6P18/ref=sr_1_31?keywords=cigarette+CBD&qid=1694268131&sr=8-31"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 18.99,
+        "raw": "\u20ac18,99",
+        "asin": "B08ZXN6P18",
+        "link": "https://www.amazon.fr/Smorter-Framboise-Cigarette-%C3%A9lectronique-d%C3%A9marrage/dp/B08ZXN6P18/ref=sr_1_31?keywords=cigarette+CBD&qid=1694268131&sr=8-31"
+      },
+      "page": 1,
+      "position_overall": 31
+    },
+    {
+      "position": 32,
+      "title": "VUSE Puff Jetable Sans Nicotine - Cigarette \u00c9lectronique - Saveur : Classique Cr\u00e8me",
+      "asin": "B0BXM52238",
+      "link": "https://www.amazon.fr/VUSE-Puff-Jetable-Sans-Nicotine/dp/B0BXM52238/ref=sr_1_32?keywords=cigarette+CBD&qid=1694268131&sr=8-32&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/616bXwMGNML._AC_UL400_.jpg",
+      "unit_price": "4,25\u00a0\u20ac/Millilitres",
+      "rating": 3.2,
+      "ratings_total": 62,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 8.49,
+          "raw": "\u20ac8,49",
+          "asin": "B0BXM52238",
+          "link": "https://www.amazon.fr/VUSE-Puff-Jetable-Sans-Nicotine/dp/B0BXM52238/ref=sr_1_32?keywords=cigarette+CBD&qid=1694268131&sr=8-32"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 8.49,
+        "raw": "\u20ac8,49",
+        "asin": "B0BXM52238",
+        "link": "https://www.amazon.fr/VUSE-Puff-Jetable-Sans-Nicotine/dp/B0BXM52238/ref=sr_1_32?keywords=cigarette+CBD&qid=1694268131&sr=8-32"
+      },
+      "page": 1,
+      "position_overall": 32
+    },
+    {
+      "position": 33,
+      "title": "CBD | Huile cbd de chanvre bio | 15% 4500mg 30ML | \u00c0 l'extrait de fraise | Cbd Huile de chanvre | Fabriqu\u00e9 dans l'UE | 0% THC 1200 gouttes | Huile de graines de cannabis.",
+      "asin": "B0B1MHC6DR",
+      "link": "https://www.amazon.fr/CALIU-CBD-lextrait-sup%C3%A9rieure-Fabriqu%C3%A9/dp/B0B1MHC6DR/ref=sr_1_33?keywords=cigarette+CBD&qid=1694268131&sr=8-33&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71zgQEKLPuL._AC_UL400_.jpg",
+      "unit_price": "899,33\u00a0\u20ac/l",
+      "is_prime": true,
+      "rating": 3.3,
+      "ratings_total": 61,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 26.98,
+          "raw": "\u20ac26,98",
+          "name": "26,98\u00a0\u20ac",
+          "asin": "B0B1MHC6DR",
+          "link": "https://www.amazon.fr/CALIU-CBD-lextrait-sup%C3%A9rieure-Fabriqu%C3%A9/dp/B0B1MHC6DR/ref=sr_1_33?keywords=cigarette+CBD&qid=1694268131&sr=8-33"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 26.98,
+        "raw": "\u20ac26,98",
+        "name": "26,98\u00a0\u20ac",
+        "asin": "B0B1MHC6DR",
+        "link": "https://www.amazon.fr/CALIU-CBD-lextrait-sup%C3%A9rieure-Fabriqu%C3%A9/dp/B0B1MHC6DR/ref=sr_1_33?keywords=cigarette+CBD&qid=1694268131&sr=8-33"
+      },
+      "page": 1,
+      "position_overall": 33
+    },
+    {
+      "position": 34,
+      "title": "Joyoka 14x10ml Premium Ecig Vape Jus E Liquide 70/30 Eliquid for E Cig Cigarette \u00e9lectronique Vape Starter Kit Pas de Nicotine Non Tabac",
+      "asin": "B09VKFWNPQ",
+      "link": "https://www.amazon.fr/Joyoka-14x10ml-Cigarette-%C3%A9lectronique-Nicotine/dp/B09VKFWNPQ/ref=sr_1_34?keywords=cigarette+CBD&qid=1694268131&sr=8-34&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71D4ffWw8NL._AC_UL400_.jpg",
+      "unit_price": "0,12\u00a0\u20ac/Millilitres",
+      "rating": 3.8,
+      "ratings_total": 301,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 16.99,
+          "raw": "\u20ac16,99",
+          "name": "Primary",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 26.99,
+          "raw": "\u20ac26,99",
+          "name": "Original",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 16.99,
+        "raw": "\u20ac16,99",
+        "name": "Primary",
+        "is_primary": true
+      },
+      "page": 1,
+      "position_overall": 34
+    },
+    {
+      "position": 35,
+      "title": "Le plus r\u00e9cent kit de d\u00e9marrage Vaptio Airgo Stick avec cartouche de pod 350mAh Mod 1.5ML Kit de vaporisateur de cigarette 11W E sans e liquide sans nicotine",
+      "asin": "B08LK9NXYN",
+      "link": "https://www.amazon.fr/d%C3%A9marrage-cartouche-vaporisateur-cigarette-nicotine/dp/B08LK9NXYN/ref=sr_1_35?keywords=cigarette+CBD&qid=1694268131&sr=8-35&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51mIbiAzGvL._AC_UL400_.jpg",
+      "unit_price": "9,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.4,
+      "ratings_total": 46,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.99,
+          "raw": "\u20ac9,99",
+          "name": "9,99\u00a0\u20ac",
+          "asin": "B08LK9NXYN",
+          "link": "https://www.amazon.fr/d%C3%A9marrage-cartouche-vaporisateur-cigarette-nicotine/dp/B08LK9NXYN/ref=sr_1_35?keywords=cigarette+CBD&qid=1694268131&sr=8-35"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.99,
+        "raw": "\u20ac9,99",
+        "name": "9,99\u00a0\u20ac",
+        "asin": "B08LK9NXYN",
+        "link": "https://www.amazon.fr/d%C3%A9marrage-cartouche-vaporisateur-cigarette-nicotine/dp/B08LK9NXYN/ref=sr_1_35?keywords=cigarette+CBD&qid=1694268131&sr=8-35"
+      },
+      "page": 1,
+      "position_overall": 35
+    },
+    {
+      "position": 36,
+      "title": "Puff Sans Nicotine BOSSPUFF Cigarette \u00e9lectronique Jetable 600 Bouff\u00e9es Lot de 8",
+      "asin": "B0C3VKLY3J",
+      "link": "https://www.amazon.fr/Nicotine-BOSSPUFF-Cigarette-%C3%A9lectronique-Bouff%C3%A9es/dp/B0C3VKLY3J/ref=sr_1_36?keywords=cigarette+CBD&qid=1694268131&sr=8-36&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71P+XsnUtDL._AC_UL400_.jpg",
+      "unit_price": "4,50\u00a0\u20ac/Pi\u00e8ce",
+      "is_prime": true,
+      "rating": 3.8,
+      "ratings_total": 48,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 35.99,
+          "raw": "\u20ac35,99",
+          "asin": "B0C3VKLY3J",
+          "link": "https://www.amazon.fr/Nicotine-BOSSPUFF-Cigarette-%C3%A9lectronique-Bouff%C3%A9es/dp/B0C3VKLY3J/ref=sr_1_36?keywords=cigarette+CBD&qid=1694268131&sr=8-36"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 35.99,
+        "raw": "\u20ac35,99",
+        "asin": "B0C3VKLY3J",
+        "link": "https://www.amazon.fr/Nicotine-BOSSPUFF-Cigarette-%C3%A9lectronique-Bouff%C3%A9es/dp/B0C3VKLY3J/ref=sr_1_36?keywords=cigarette+CBD&qid=1694268131&sr=8-36"
+      },
+      "page": 1,
+      "position_overall": 36
+    },
+    {
+      "position": 37,
+      "title": "BOSSPUFF Puff Sans Nicotine 600 taffs, Cigarette \u00c9lectronique Jetable Sans Tabac * 6",
+      "asin": "B0C3VF5QL8",
+      "link": "https://www.amazon.fr/BOSSPUFF-Nicotine-Cigarette-%C3%89lectronique-Jetable/dp/B0C3VF5QL8/ref=sr_1_37?keywords=cigarette+CBD&qid=1694268131&sr=8-37&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61Qek7iXRFL._AC_UL400_.jpg",
+      "unit_price": "4,83\u00a0\u20ac/Pi\u00e8ce",
+      "is_prime": true,
+      "rating": 4.3,
+      "ratings_total": 29,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 28.99,
+          "raw": "\u20ac28,99",
+          "asin": "B0C3VF5QL8",
+          "link": "https://www.amazon.fr/BOSSPUFF-Nicotine-Cigarette-%C3%89lectronique-Jetable/dp/B0C3VF5QL8/ref=sr_1_37?keywords=cigarette+CBD&qid=1694268131&sr=8-37"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 28.99,
+        "raw": "\u20ac28,99",
+        "asin": "B0C3VF5QL8",
+        "link": "https://www.amazon.fr/BOSSPUFF-Nicotine-Cigarette-%C3%89lectronique-Jetable/dp/B0C3VF5QL8/ref=sr_1_37?keywords=cigarette+CBD&qid=1694268131&sr=8-37"
+      },
+      "page": 1,
+      "position_overall": 37
+    },
+    {
+      "position": 38,
+      "title": "escobar 50ml - Liquidarom - Sans Tabac - Sans Nicotine",
+      "asin": "B09JCSBFQ4",
+      "link": "https://www.amazon.fr/escobar-50ml-Liquidarom-Tabac-Nicotine/dp/B09JCSBFQ4/ref=sr_1_38?keywords=cigarette+CBD&qid=1694268131&sr=8-38&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51b62Fc5VUS._AC_UL400_.jpg",
+      "unit_price": "253,60\u00a0\u20ac/l",
+      "rating": 3.9,
+      "ratings_total": 9,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 12.68,
+          "raw": "\u20ac12,68",
+          "name": "12,68\u00a0\u20ac",
+          "asin": "B09JCSBFQ4",
+          "link": "https://www.amazon.fr/escobar-50ml-Liquidarom-Tabac-Nicotine/dp/B09JCSBFQ4/ref=sr_1_38?keywords=cigarette+CBD&qid=1694268131&sr=8-38"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 12.68,
+        "raw": "\u20ac12,68",
+        "name": "12,68\u00a0\u20ac",
+        "asin": "B09JCSBFQ4",
+        "link": "https://www.amazon.fr/escobar-50ml-Liquidarom-Tabac-Nicotine/dp/B09JCSBFQ4/ref=sr_1_38?keywords=cigarette+CBD&qid=1694268131&sr=8-38"
+      },
+      "page": 1,
+      "position_overall": 38
+    },
+    {
+      "position": 39,
+      "title": "PureTrees by SellyFair - Heisenberg - CBD Liquid - 500 mg - 10 ml - Test\u00e9 en laboratoire",
+      "asin": "B0CFM9Q51F",
+      "link": "https://www.amazon.fr/PureTrees-SellyFair-Heisenberg-Liquid-laboratoire/dp/B0CFM9Q51F/ref=sr_1_39?keywords=cigarette+CBD&qid=1694268131&sr=8-39&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 9\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41NvyKaAWtL._AC_UL400_.jpg",
+      "unit_price": "2\u00a0490,00\u00a0\u20ac/l",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 24.9,
+          "raw": "\u20ac24,90",
+          "asin": "B0CFM9Q51F",
+          "link": "https://www.amazon.fr/PureTrees-SellyFair-Heisenberg-Liquid-laboratoire/dp/B0CFM9Q51F/ref=sr_1_39?keywords=cigarette+CBD&qid=1694268131&sr=8-39"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 24.9,
+        "raw": "\u20ac24,90",
+        "asin": "B0CFM9Q51F",
+        "link": "https://www.amazon.fr/PureTrees-SellyFair-Heisenberg-Liquid-laboratoire/dp/B0CFM9Q51F/ref=sr_1_39?keywords=cigarette+CBD&qid=1694268131&sr=8-39"
+      },
+      "page": 1,
+      "position_overall": 39
+    },
+    {
+      "position": 40,
+      "title": "Pod Jetable Smorter, Appareils de Vapotage Avec E Liquide, Cigarette Electronique, Vapoteur Jetable, Vapoteur Electronique, Ar\u00f4mes Sans Nicotine Sans Tabac (glace \u00e0 la fraise)",
+      "asin": "B09Z1VVSN6",
+      "link": "https://www.amazon.fr/Smorter-Appareils-Vapotage-Cigarette-Electronique/dp/B09Z1VVSN6/ref=sr_1_40?keywords=cigarette+CBD&qid=1694268131&sr=8-40&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71hB1HICnnL._AC_UL400_.jpg",
+      "unit_price": "7,99\u00a0\u20ac/Pack",
+      "rating": 3.2,
+      "ratings_total": 457,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 7.99,
+          "raw": "\u20ac7,99",
+          "name": "7,99\u00a0\u20ac",
+          "asin": "B09Z1VVSN6",
+          "link": "https://www.amazon.fr/Smorter-Appareils-Vapotage-Cigarette-Electronique/dp/B09Z1VVSN6/ref=sr_1_40?keywords=cigarette+CBD&qid=1694268131&sr=8-40"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 7.99,
+        "raw": "\u20ac7,99",
+        "name": "7,99\u00a0\u20ac",
+        "asin": "B09Z1VVSN6",
+        "link": "https://www.amazon.fr/Smorter-Appareils-Vapotage-Cigarette-Electronique/dp/B09Z1VVSN6/ref=sr_1_40?keywords=cigarette+CBD&qid=1694268131&sr=8-40"
+      },
+      "page": 1,
+      "position_overall": 40
+    },
+    {
+      "position": 41,
+      "title": "E-LIQUIDE 50ML SAVEUR FRAISES GLAC\u00c9ES - IZY LIQUIDE - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C37L9ZCQ",
+      "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-FRAISES-GLAC%C3%89ES-CIGARETTE/dp/B0C37L9ZCQ/ref=sr_1_41?keywords=cigarette+CBD&qid=1694268131&sr=8-41&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/618+Pu7mLfL._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 3.7,
+      "ratings_total": 10,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C37L9ZCQ",
+          "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-FRAISES-GLAC%C3%89ES-CIGARETTE/dp/B0C37L9ZCQ/ref=sr_1_41?keywords=cigarette+CBD&qid=1694268131&sr=8-41"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C37L9ZCQ",
+        "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-FRAISES-GLAC%C3%89ES-CIGARETTE/dp/B0C37L9ZCQ/ref=sr_1_41?keywords=cigarette+CBD&qid=1694268131&sr=8-41"
+      },
+      "page": 1,
+      "position_overall": 41
+    },
+    {
+      "position": 42,
+      "title": "E-LIQUIDE 50ML SAVEUR CERISES GLAC\u00c9ES - FRESHY - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C2ZLK88Y",
+      "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-CERISES-GLAC%C3%89ES-CIGARETTE/dp/B0C2ZLK88Y/ref=sr_1_42?keywords=cigarette+CBD&qid=1694268131&sr=8-42&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51AV5vzTVPL._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 3.6,
+      "ratings_total": 17,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C2ZLK88Y",
+          "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-CERISES-GLAC%C3%89ES-CIGARETTE/dp/B0C2ZLK88Y/ref=sr_1_42?keywords=cigarette+CBD&qid=1694268131&sr=8-42"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C2ZLK88Y",
+        "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-CERISES-GLAC%C3%89ES-CIGARETTE/dp/B0C2ZLK88Y/ref=sr_1_42?keywords=cigarette+CBD&qid=1694268131&sr=8-42"
+      },
+      "page": 1,
+      "position_overall": 42
+    },
+    {
+      "position": 43,
+      "title": "Vape Pen | Nectar Hive Cigarette Electronique avec capsule rechargeable de 2 ml, chargeur USB-C, batterie de 1000 mAh et technologie d\u2019activation par inhalation - Comprend une capsule Nectar Hive",
+      "asin": "B09N2WNRRF",
+      "link": "https://www.amazon.fr/rechargeable-chargeur-technologie-dactivation-inhalation/dp/B09N2WNRRF/ref=sr_1_43?keywords=cigarette+CBD&qid=1694268131&sr=8-43&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61ZHfZ0cg6L._AC_UL400_.jpg",
+      "unit_price": "39,99\u00a0\u20ac/unit\u00e9",
+      "is_prime": true,
+      "rating": 4.4,
+      "ratings_total": 271,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 39.99,
+          "raw": "\u20ac39,99",
+          "name": "39,99\u00a0\u20ac",
+          "asin": "B09N2WNRRF",
+          "link": "https://www.amazon.fr/rechargeable-chargeur-technologie-dactivation-inhalation/dp/B09N2WNRRF/ref=sr_1_43?keywords=cigarette+CBD&qid=1694268131&sr=8-43"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 39.99,
+        "raw": "\u20ac39,99",
+        "name": "39,99\u00a0\u20ac",
+        "asin": "B09N2WNRRF",
+        "link": "https://www.amazon.fr/rechargeable-chargeur-technologie-dactivation-inhalation/dp/B09N2WNRRF/ref=sr_1_43?keywords=cigarette+CBD&qid=1694268131&sr=8-43"
+      },
+      "page": 1,
+      "position_overall": 43
+    },
+    {
+      "position": 44,
+      "title": "IMECIG et Cigarettes Vapoteur Electronique Starter Kit 2 Pack CE4 Ego Avec E Liquide 1100mAh Batterie Rechargeable, 5 x 10ml E Cig Liquide Vape Pen Set de Voyage E Cig Jus Sans Nicotine Sans Tabac",
+      "asin": "B0B4DCD99S",
+      "link": "https://www.amazon.fr/IMECIG-Cigarettes-Vapoteur-Electronique-Rechargeable/dp/B0B4DCD99S/ref=sr_1_44?keywords=cigarette+CBD&qid=1694268131&sr=8-44&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51oV-R0CL-L._AC_UL400_.jpg",
+      "unit_price": "15,00\u00a0\u20ac/Pack",
+      "is_prime": true,
+      "rating": 3.4,
+      "ratings_total": 519,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 29.99,
+          "raw": "\u20ac29,99",
+          "asin": "B0B4DCD99S",
+          "link": "https://www.amazon.fr/IMECIG-Cigarettes-Vapoteur-Electronique-Rechargeable/dp/B0B4DCD99S/ref=sr_1_44?keywords=cigarette+CBD&qid=1694268131&sr=8-44"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 29.99,
+        "raw": "\u20ac29,99",
+        "asin": "B0B4DCD99S",
+        "link": "https://www.amazon.fr/IMECIG-Cigarettes-Vapoteur-Electronique-Rechargeable/dp/B0B4DCD99S/ref=sr_1_44?keywords=cigarette+CBD&qid=1694268131&sr=8-44"
+      },
+      "page": 1,
+      "position_overall": 44
+    },
+    {
+      "position": 45,
+      "title": "ELF BAR - { P\u00caCHE GLAC\u00c9E } - Cigarette Electronique Jetable - Pod \u00e0 Usage Unique - Bouff\u00e9es : 1500 Puffs - Nicotine : 0% - Sans Tabac ni Nicotine",
+      "asin": "B0BD9CZGSV",
+      "link": "https://www.amazon.fr/ELF-BAR-Cigarette-Electronique-Bouff%C3%A9es/dp/B0BD9CZGSV/ref=sr_1_45?keywords=cigarette+CBD&qid=1694268131&sr=8-45&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41A6WX6NLxL._AC_UL400_.jpg",
+      "unit_price": "271,16\u00a0\u20ac/kg",
+      "rating": 4.6,
+      "ratings_total": 11,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 11.66,
+          "raw": "\u20ac11,66",
+          "asin": "B0BD9CZGSV",
+          "link": "https://www.amazon.fr/ELF-BAR-Cigarette-Electronique-Bouff%C3%A9es/dp/B0BD9CZGSV/ref=sr_1_45?keywords=cigarette+CBD&qid=1694268131&sr=8-45"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 11.66,
+        "raw": "\u20ac11,66",
+        "asin": "B0BD9CZGSV",
+        "link": "https://www.amazon.fr/ELF-BAR-Cigarette-Electronique-Bouff%C3%A9es/dp/B0BD9CZGSV/ref=sr_1_45?keywords=cigarette+CBD&qid=1694268131&sr=8-45"
+      },
+      "page": 1,
+      "position_overall": 45
+    },
+    {
+      "position": 46,
+      "title": "Vape avec concentr\u00e9 CBD 300 mg (15%) | 600 bouff\u00e9es | Saveur de Citron Doux | Sans nicotine | Cigarette \u00e9lectronique jetable | DARWIN CBD\u2026",
+      "asin": "B0C3JCZKZV",
+      "link": "https://www.amazon.fr/dp/B0C3JCZKZV/ref=sr_1_46?keywords=cigarette+CBD&qid=1694268131&sr=8-46&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51HL4GqeywL._AC_UL400_.jpg",
+      "unit_price": "19,90\u00a0\u20ac/Total",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "asin": "B0C3JCZKZV",
+          "link": "https://www.amazon.fr/dp/B0C3JCZKZV/ref=sr_1_46?keywords=cigarette+CBD&qid=1694268131&sr=8-46"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "asin": "B0C3JCZKZV",
+        "link": "https://www.amazon.fr/dp/B0C3JCZKZV/ref=sr_1_46?keywords=cigarette+CBD&qid=1694268131&sr=8-46"
+      },
+      "page": 1,
+      "position_overall": 46
+    },
+    {
+      "position": 47,
+      "title": "VUSE Puff XL Cigarette \u00c9lectronique Jetable Sans Nicotine - 1500 Puffs - Saveur : Menthe Ice",
+      "asin": "B0CC3GLC6R",
+      "link": "https://www.amazon.fr/VUSE-Cigarette-%C3%89lectronique-Jetable-Nicotine/dp/B0CC3GLC6R/ref=sr_1_47?keywords=cigarette+CBD&qid=1694268131&sr=8-47&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71gtVelP4VL._AC_UL400_.jpg",
+      "unit_price": "2,50\u00a0\u20ac/Millilitres",
+      "rating": 3.5,
+      "ratings_total": 3,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 11.99,
+          "raw": "\u20ac11,99",
+          "asin": "B0CC3GLC6R",
+          "link": "https://www.amazon.fr/VUSE-Cigarette-%C3%89lectronique-Jetable-Nicotine/dp/B0CC3GLC6R/ref=sr_1_47?keywords=cigarette+CBD&qid=1694268131&sr=8-47"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 11.99,
+        "raw": "\u20ac11,99",
+        "asin": "B0CC3GLC6R",
+        "link": "https://www.amazon.fr/VUSE-Cigarette-%C3%89lectronique-Jetable-Nicotine/dp/B0CC3GLC6R/ref=sr_1_47?keywords=cigarette+CBD&qid=1694268131&sr=8-47"
+      },
+      "page": 1,
+      "position_overall": 47
+    },
+    {
+      "position": 48,
+      "title": "E-LIQUIDE 50ML SAVEUR MENTHE SUPER GLACIALE - JUICE VAPOR - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C2WGYV2L",
+      "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-MENTHE-GLACIALE-CIGARETTE/dp/B0C2WGYV2L/ref=sr_1_48?keywords=cigarette+CBD&qid=1694268131&sr=8-48&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51GrkYTeqjL._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 4.6,
+      "ratings_total": 10,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C2WGYV2L",
+          "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-MENTHE-GLACIALE-CIGARETTE/dp/B0C2WGYV2L/ref=sr_1_48?keywords=cigarette+CBD&qid=1694268131&sr=8-48"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C2WGYV2L",
+        "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-MENTHE-GLACIALE-CIGARETTE/dp/B0C2WGYV2L/ref=sr_1_48?keywords=cigarette+CBD&qid=1694268131&sr=8-48"
+      },
+      "page": 1,
+      "position_overall": 48
+    },
+    {
+      "position": 1,
+      "title": "E-LIQUIDE 50ML SAVEUR MENTHE SUPER GLACIALE - JUICE VAPOR - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C2WGYV2L",
+      "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-MENTHE-GLACIALE-CIGARETTE/dp/B0C2WGYV2L/ref=sr_1_49?keywords=cigarette+CBD&qid=1694268134&sr=8-49&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51GrkYTeqjL._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 4.6,
+      "ratings_total": 10,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C2WGYV2L",
+          "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-MENTHE-GLACIALE-CIGARETTE/dp/B0C2WGYV2L/ref=sr_1_49?keywords=cigarette+CBD&qid=1694268134&sr=8-49"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C2WGYV2L",
+        "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-MENTHE-GLACIALE-CIGARETTE/dp/B0C2WGYV2L/ref=sr_1_49?keywords=cigarette+CBD&qid=1694268134&sr=8-49"
+      },
+      "page": 2,
+      "position_overall": 49
+    },
+    {
+      "position": 2,
+      "title": "ELF BAR - { MENTHE FRA\u00ceCHE } - Cigarette Electronique Jetable - Pod \u00e0 Usage Unique - Bouff\u00e9es : 1500 Puffs - Nicotine : 0% - Sans Tabac ni Nicotine",
+      "asin": "B0BDBPZBP3",
+      "link": "https://www.amazon.fr/ELF-BAR-Cigarette-Electronique-Bouff%C3%A9es/dp/B0BDBPZBP3/ref=sr_1_50?keywords=cigarette+CBD&qid=1694268134&sr=8-50&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41dexHWk93L._AC_UL400_.jpg",
+      "unit_price": "271,16\u00a0\u20ac/kg",
+      "rating": 4.3,
+      "ratings_total": 19,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 11.66,
+          "raw": "\u20ac11,66",
+          "asin": "B0BDBPZBP3",
+          "link": "https://www.amazon.fr/ELF-BAR-Cigarette-Electronique-Bouff%C3%A9es/dp/B0BDBPZBP3/ref=sr_1_50?keywords=cigarette+CBD&qid=1694268134&sr=8-50"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 11.66,
+        "raw": "\u20ac11,66",
+        "asin": "B0BDBPZBP3",
+        "link": "https://www.amazon.fr/ELF-BAR-Cigarette-Electronique-Bouff%C3%A9es/dp/B0BDBPZBP3/ref=sr_1_50?keywords=cigarette+CBD&qid=1694268134&sr=8-50"
+      },
+      "page": 2,
+      "position_overall": 50
+    },
+    {
+      "position": 3,
+      "title": "E Liquid BEYLEYS PAR ElecVap - Sans Nicotine NI TABAC- Format Format TPD 50 ml boteille 60ml - 0MG Nicotine - E Liquide pour cigarette \u00e9lectronique - E Liquide vapoteuse",
+      "asin": "B08WTLP8QX",
+      "link": "https://www.amazon.fr/Liquid-BEYLEYS-ElecVap-Liquide-Electroniques/dp/B08WTLP8QX/ref=sr_1_51?keywords=cigarette+CBD&qid=1694268134&sr=8-51&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51SpRAv9HpL._AC_UL400_.jpg",
+      "unit_price": "149,83\u00a0\u20ac/kg",
+      "rating": 2.9,
+      "ratings_total": 82,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 8.99,
+          "raw": "\u20ac8,99",
+          "name": "8,99\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.9,
+          "raw": "\u20ac9,90",
+          "name": "8,99\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 8.99,
+        "raw": "\u20ac8,99",
+        "name": "8,99\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 51
+    },
+    {
+      "position": 4,
+      "title": "Discoball 2 Pi\u00e8ces Cigarettes \u00e9lectroniques Vape Pen Starter Kit avec 1100mAh EGO Batterie, 1.6ml CE4 Atomiseur, Cable Charge, Accrocher Corde, Ecig Set Cadeaux Debutants, Sans Nicotine Sans Tabac",
+      "asin": "B0745DR6TZ",
+      "link": "https://www.amazon.fr/Cigarettes-%C3%A9lectroniques-Rechargeable-Atomizer-cigarettes/dp/B0745DR6TZ/ref=sr_1_52?keywords=cigarette+CBD&qid=1694268134&sr=8-52&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 11\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71wfFgIouwL._AC_UL400_.jpg",
+      "unit_price": "23,99\u00a0\u20ac/Pack",
+      "rating": 3.3,
+      "ratings_total": 1261,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 23.99,
+          "raw": "\u20ac23,99",
+          "name": "23,99\u00a0\u20ac",
+          "asin": "B0745DR6TZ",
+          "link": "https://www.amazon.fr/Cigarettes-%C3%A9lectroniques-Rechargeable-Atomizer-cigarettes/dp/B0745DR6TZ/ref=sr_1_52?keywords=cigarette+CBD&qid=1694268134&sr=8-52"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 23.99,
+        "raw": "\u20ac23,99",
+        "name": "23,99\u00a0\u20ac",
+        "asin": "B0745DR6TZ",
+        "link": "https://www.amazon.fr/Cigarettes-%C3%A9lectroniques-Rechargeable-Atomizer-cigarettes/dp/B0745DR6TZ/ref=sr_1_52?keywords=cigarette+CBD&qid=1694268134&sr=8-52"
+      },
+      "page": 2,
+      "position_overall": 52
+    },
+    {
+      "position": 5,
+      "title": "Joyetech Cigarette Electronique \u00e9lectroniques kit complet eGo AIO kit-Noir-Tout-en-un, \u00e9tanche, \u00e0 l'\u00e9preuve des enfants, remplissage sup\u00e9rieur de 2 ml, certifi\u00e9 UL-Sans Nicotine(AMZN FR)",
+      "asin": "B085M9C7NV",
+      "link": "https://www.amazon.fr/Cigarette-Electronique-%C3%A9lectroniques-kit-Noir-Tout-en-remplissage/dp/B085M9C7NV/ref=sr_1_53?keywords=cigarette+CBD&qid=1694268134&sr=8-53&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41vFbxaHX+L._AC_UL400_.jpg",
+      "unit_price": "19,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.7,
+      "ratings_total": 382,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.99,
+          "raw": "\u20ac19,99",
+          "name": "19,99\u00a0\u20ac",
+          "asin": "B085M9C7NV",
+          "link": "https://www.amazon.fr/Cigarette-Electronique-%C3%A9lectroniques-kit-Noir-Tout-en-remplissage/dp/B085M9C7NV/ref=sr_1_53?keywords=cigarette+CBD&qid=1694268134&sr=8-53"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.99,
+        "raw": "\u20ac19,99",
+        "name": "19,99\u00a0\u20ac",
+        "asin": "B085M9C7NV",
+        "link": "https://www.amazon.fr/Cigarette-Electronique-%C3%A9lectroniques-kit-Noir-Tout-en-remplissage/dp/B085M9C7NV/ref=sr_1_53?keywords=cigarette+CBD&qid=1694268134&sr=8-53"
+      },
+      "page": 2,
+      "position_overall": 53
+    },
+    {
+      "position": 6,
+      "title": "Vape avec concentr\u00e9 CBD 300 mg (15%) | 600 bouff\u00e9es | Saveur de Citron Doux | Sans nicotine | Cigarette \u00e9lectronique jetable | DARWIN CBD\u2026",
+      "asin": "B0C3JCZKZV",
+      "link": "https://www.amazon.fr/dp/B0C3JCZKZV/ref=sr_1_54?keywords=cigarette+CBD&qid=1694268134&sr=8-54&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51HL4GqeywL._AC_UL400_.jpg",
+      "unit_price": "19,90\u00a0\u20ac/Total",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "asin": "B0C3JCZKZV",
+          "link": "https://www.amazon.fr/dp/B0C3JCZKZV/ref=sr_1_54?keywords=cigarette+CBD&qid=1694268134&sr=8-54"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "asin": "B0C3JCZKZV",
+        "link": "https://www.amazon.fr/dp/B0C3JCZKZV/ref=sr_1_54?keywords=cigarette+CBD&qid=1694268134&sr=8-54"
+      },
+      "page": 2,
+      "position_overall": 54
+    },
+    {
+      "position": 7,
+      "title": "Cigarette \u00c9lectronique Jetable 2000 Bouff\u00e9es, VAPEN CUBE Vapoteuse \u00c9lectronique, Puff Sans Nicotine 2000 Taff, Pod Vape E Cigarette 0 Nicotine Sans Tabac (Past\u00e8que)",
+      "asin": "B0BTQ12PKK",
+      "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Bouff%C3%A9es-VAPEN-Vapoteuse/dp/B0BTQ12PKK/ref=sr_1_55?keywords=cigarette+CBD&qid=1694268134&sr=8-55&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 5\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71ebnge2KjL._AC_UL400_.jpg",
+      "unit_price": "13,99\u00a0\u20ac/unit\u00e9",
+      "rating": 4.1,
+      "ratings_total": 89,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 13.99,
+          "raw": "\u20ac13,99",
+          "asin": "B0BTQ12PKK",
+          "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Bouff%C3%A9es-VAPEN-Vapoteuse/dp/B0BTQ12PKK/ref=sr_1_55?keywords=cigarette+CBD&qid=1694268134&sr=8-55"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 13.99,
+        "raw": "\u20ac13,99",
+        "asin": "B0BTQ12PKK",
+        "link": "https://www.amazon.fr/Cigarette-%C3%89lectronique-Bouff%C3%A9es-VAPEN-Vapoteuse/dp/B0BTQ12PKK/ref=sr_1_55?keywords=cigarette+CBD&qid=1694268134&sr=8-55"
+      },
+      "page": 2,
+      "position_overall": 55
+    },
+    {
+      "position": 8,
+      "title": "UBUNG 50 King size c\u00f4ne pr\u00e9 roul\u00e9 bleu avec filtres | bleu fini feuille \u00e0 rouler | Papier a cigarette conique | Accessoires 1 entonnoir et 1 tube transparent",
+      "asin": "B09LSYRYCX",
+      "link": "https://www.amazon.fr/UBUNG-cigarette-Accessoires-entonnoir-transparent/dp/B09LSYRYCX/ref=sr_1_56?keywords=cigarette+CBD&qid=1694268134&sr=8-56&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71UFTPD439L._AC_UL400_.jpg",
+      "unit_price": "0,28\u00a0\u20ac/unit\u00e9",
+      "rating": 4.6,
+      "ratings_total": 163,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 13.99,
+          "raw": "\u20ac13,99",
+          "name": "13,99\u00a0\u20ac",
+          "asin": "B09LSYRYCX",
+          "link": "https://www.amazon.fr/UBUNG-cigarette-Accessoires-entonnoir-transparent/dp/B09LSYRYCX/ref=sr_1_56?keywords=cigarette+CBD&qid=1694268134&sr=8-56"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 13.99,
+        "raw": "\u20ac13,99",
+        "name": "13,99\u00a0\u20ac",
+        "asin": "B09LSYRYCX",
+        "link": "https://www.amazon.fr/UBUNG-cigarette-Accessoires-entonnoir-transparent/dp/B09LSYRYCX/ref=sr_1_56?keywords=cigarette+CBD&qid=1694268134&sr=8-56"
+      },
+      "page": 2,
+      "position_overall": 56
+    },
+    {
+      "position": 9,
+      "title": "Vape Puff 95% H4CBD 250 bouff\u00e9es jetable | sans Nicotine | relaxation et bien-\u00eatre | cigarette \u00e9l\u00e9ctronique | Saveur ananas coco 0.5ml | sans solvants ni agents de coupe",
+      "asin": "B0CDM3H75V",
+      "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CDM3H75V/ref=sr_1_57?keywords=cigarette+CBD&qid=1694268134&sr=8-57&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41x0pfR6dFL._AC_UL400_.jpg",
+      "rating": 5,
+      "ratings_total": 1,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 40,
+          "raw": "\u20acAucune offre mise en avant40,00",
+          "asin": "B0CDM3H75V",
+          "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CDM3H75V/ref=sr_1_57?keywords=cigarette+CBD&qid=1694268134&sr=8-57"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 40,
+        "raw": "\u20acAucune offre mise en avant40,00",
+        "asin": "B0CDM3H75V",
+        "link": "https://www.amazon.fr/bouff%C3%A9es-relaxation-bien-%C3%AAtre-cigarette-%C3%A9l%C3%A9ctronique/dp/B0CDM3H75V/ref=sr_1_57?keywords=cigarette+CBD&qid=1694268134&sr=8-57"
+      },
+      "page": 2,
+      "position_overall": 57
+    },
+    {
+      "position": 10,
+      "title": "Manvap GENT Cigarette \u00c9lectronique Kit Complet 80W 2200mAh avec 6x10ml E Liquide, Top Refill Atomiseur 0,3ohm 2ml, E-Cigarette Vape Pen Set sans Nicotine noir",
+      "asin": "B0B3RJS9GW",
+      "link": "https://www.amazon.fr/Manvap-Cigarette-%C3%89lectronique-Atomiseur-Cigarette/dp/B0B3RJS9GW/ref=sr_1_58?keywords=cigarette+CBD&qid=1694268134&sr=8-58&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71SSozSc2VL._AC_UL400_.jpg",
+      "unit_price": "40,99\u00a0\u20ac/Box",
+      "is_prime": true,
+      "rating": 3.6,
+      "ratings_total": 199,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 40.99,
+          "raw": "\u20ac40,99",
+          "asin": "B0B3RJS9GW",
+          "link": "https://www.amazon.fr/Manvap-Cigarette-%C3%89lectronique-Atomiseur-Cigarette/dp/B0B3RJS9GW/ref=sr_1_58?keywords=cigarette+CBD&qid=1694268134&sr=8-58"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 40.99,
+        "raw": "\u20ac40,99",
+        "asin": "B0B3RJS9GW",
+        "link": "https://www.amazon.fr/Manvap-Cigarette-%C3%89lectronique-Atomiseur-Cigarette/dp/B0B3RJS9GW/ref=sr_1_58?keywords=cigarette+CBD&qid=1694268134&sr=8-58"
+      },
+      "page": 2,
+      "position_overall": 58
+    },
+    {
+      "position": 11,
+      "title": "Ciberate 50mlx3 Vape Premium Ecig E Liquide E Jus Juteux Les Saveurs 70/30 Eliquid Past\u00e8que Fraise Myrtille for E Cig Cigarette \u00e9lectronique Starter Kit Pas de Nicotine Non Tabac",
+      "asin": "B0832SFRHD",
+      "link": "https://www.amazon.fr/Ciberate-Past%C3%A8que-Myrtille-Cigarette-%C3%A9lectronique/dp/B0832SFRHD/ref=sr_1_59?keywords=cigarette+CBD&qid=1694268134&sr=8-59&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61DajCnSLJL._AC_UL400_.jpg",
+      "unit_price": "119,93\u00a0\u20ac/l",
+      "rating": 3.8,
+      "ratings_total": 1804,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 17.99,
+          "raw": "\u20ac17,99",
+          "asin": "B0832SFRHD",
+          "link": "https://www.amazon.fr/Ciberate-Past%C3%A8que-Myrtille-Cigarette-%C3%A9lectronique/dp/B0832SFRHD/ref=sr_1_59?keywords=cigarette+CBD&qid=1694268134&sr=8-59"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 17.99,
+        "raw": "\u20ac17,99",
+        "asin": "B0832SFRHD",
+        "link": "https://www.amazon.fr/Ciberate-Past%C3%A8que-Myrtille-Cigarette-%C3%A9lectronique/dp/B0832SFRHD/ref=sr_1_59?keywords=cigarette+CBD&qid=1694268134&sr=8-59"
+      },
+      "page": 2,
+      "position_overall": 59
+    },
+    {
+      "position": 12,
+      "title": "Kit eRoll MAC Noir Joyetech - Sans tabac ni nicotine - Vente interdite au moins de 18 ans - Produit vendu \u00e0 l'unit\u00e9 - Photo non contractuelle - AMAVAPE",
+      "asin": "B07W7MV8SR",
+      "link": "https://www.amazon.fr/eRoll-MAC-Noir-Joyetech-contractuelle/dp/B07W7MV8SR/ref=sr_1_60?keywords=cigarette+CBD&qid=1694268134&sr=8-60&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41rpkk3jw-L._AC_UL400_.jpg",
+      "unit_price": "12,90\u00a0\u20ac/unit\u00e9",
+      "rating": 3.8,
+      "ratings_total": 25,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 12.9,
+          "raw": "\u20ac12,90",
+          "name": "12,90\u00a0\u20ac",
+          "asin": "B07W7MV8SR",
+          "link": "https://www.amazon.fr/eRoll-MAC-Noir-Joyetech-contractuelle/dp/B07W7MV8SR/ref=sr_1_60?keywords=cigarette+CBD&qid=1694268134&sr=8-60"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 12.9,
+        "raw": "\u20ac12,90",
+        "name": "12,90\u00a0\u20ac",
+        "asin": "B07W7MV8SR",
+        "link": "https://www.amazon.fr/eRoll-MAC-Noir-Joyetech-contractuelle/dp/B07W7MV8SR/ref=sr_1_60?keywords=cigarette+CBD&qid=1694268134&sr=8-60"
+      },
+      "page": 2,
+      "position_overall": 60
+    },
+    {
+      "position": 13,
+      "title": "Vaporesso GTX GO 40 Pod Kit 1500mAh 3.5ml Cigarettes \u00e9lectroniques Sans Nicotine ni Tabac(Arc-en-ciel)",
+      "asin": "B09995KXR7",
+      "link": "https://www.amazon.fr/Vaporesso-Cigarettes-%C3%A9lectroniques-Nicotine-Arc-en-ciel/dp/B09995KXR7/ref=sr_1_61?keywords=cigarette+CBD&qid=1694268134&sr=8-61&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41anwZP2auL._AC_UL400_.jpg",
+      "unit_price": "21,38\u00a0\u20ac/unit\u00e9",
+      "rating": 4,
+      "ratings_total": 130,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 21.38,
+          "raw": "\u20ac21,38",
+          "name": "21,38\u00a0\u20ac",
+          "asin": "B09995KXR7",
+          "link": "https://www.amazon.fr/Vaporesso-Cigarettes-%C3%A9lectroniques-Nicotine-Arc-en-ciel/dp/B09995KXR7/ref=sr_1_61?keywords=cigarette+CBD&qid=1694268134&sr=8-61"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 21.38,
+        "raw": "\u20ac21,38",
+        "name": "21,38\u00a0\u20ac",
+        "asin": "B09995KXR7",
+        "link": "https://www.amazon.fr/Vaporesso-Cigarettes-%C3%A9lectroniques-Nicotine-Arc-en-ciel/dp/B09995KXR7/ref=sr_1_61?keywords=cigarette+CBD&qid=1694268134&sr=8-61"
+      },
+      "page": 2,
+      "position_overall": 61
+    },
+    {
+      "position": 14,
+      "title": "Vape cigarette \u00e9lectronique jetable +7000 taff. Vape sans nicotine ilumin\u00e9e. Big puff sans nicotine. Wpuff sans nicotine avec liquide pr\u00e9-rempli.Plus de 7000 taff\u00e9es (Fruit Rouges)",
+      "asin": "B0CD5VBMSG",
+      "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-ilumin%C3%A9e-nicotine-pr%C3%A9-rempli-Plus/dp/B0CD5VBMSG/ref=sr_1_62?keywords=cigarette+CBD&qid=1694268134&sr=8-62&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61mxYeZpnuL._AC_UL400_.jpg",
+      "unit_price": "27,90\u00a0\u20ac/Pi\u00e8ce",
+      "is_prime": true,
+      "rating": 3,
+      "ratings_total": 95,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 27.9,
+          "raw": "\u20ac27,90",
+          "name": "27,90\u00a0\u20ac",
+          "asin": "B0CD5VBMSG",
+          "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-ilumin%C3%A9e-nicotine-pr%C3%A9-rempli-Plus/dp/B0CD5VBMSG/ref=sr_1_62?keywords=cigarette+CBD&qid=1694268134&sr=8-62"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 27.9,
+        "raw": "\u20ac27,90",
+        "name": "27,90\u00a0\u20ac",
+        "asin": "B0CD5VBMSG",
+        "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-ilumin%C3%A9e-nicotine-pr%C3%A9-rempli-Plus/dp/B0CD5VBMSG/ref=sr_1_62?keywords=cigarette+CBD&qid=1694268134&sr=8-62"
+      },
+      "page": 2,
+      "position_overall": 62
+    },
+    {
+      "position": 15,
+      "title": "Vaporesso OSMALL 2 Kit | Original MTL Vape Kit Built in 450mAh Battery with 1.2 ohm Cartridge No Nicotine No Liquid",
+      "asin": "B0B4DQFXQ6",
+      "link": "https://www.amazon.fr/Vaporesso-Original-Battery-Cartridge-Nicotine/dp/B0B4DQFXQ6/ref=sr_1_63?keywords=cigarette+CBD&qid=1694268134&sr=8-63&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41bpQF9-8RL._AC_UL400_.jpg",
+      "unit_price": "14,55\u00a0\u20ac/unit\u00e9",
+      "rating": 3.8,
+      "ratings_total": 31,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 14.55,
+          "raw": "\u20ac14,55",
+          "name": "14,55\u00a0\u20ac",
+          "asin": "B0B4DQFXQ6",
+          "link": "https://www.amazon.fr/Vaporesso-Original-Battery-Cartridge-Nicotine/dp/B0B4DQFXQ6/ref=sr_1_63?keywords=cigarette+CBD&qid=1694268134&sr=8-63"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 14.55,
+        "raw": "\u20ac14,55",
+        "name": "14,55\u00a0\u20ac",
+        "asin": "B0B4DQFXQ6",
+        "link": "https://www.amazon.fr/Vaporesso-Original-Battery-Cartridge-Nicotine/dp/B0B4DQFXQ6/ref=sr_1_63?keywords=cigarette+CBD&qid=1694268134&sr=8-63"
+      },
+      "page": 2,
+      "position_overall": 63
+    },
+    {
+      "position": 16,
+      "title": "Puff Bubble Juice - AromaPuff - 0 mg - sans nicotine ni tabac",
+      "asin": "B09SBMX9TZ",
+      "link": "https://www.amazon.fr/Puff-Bubble-Juice-AromaPuff-nicotine/dp/B09SBMX9TZ/ref=sr_1_64?keywords=cigarette+CBD&qid=1694268134&sr=8-64&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51SXRsrwBHL._AC_UL400_.jpg",
+      "unit_price": "7,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.8,
+      "ratings_total": 11,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 7.99,
+          "raw": "\u20ac7,99",
+          "name": "7,99\u00a0\u20ac",
+          "asin": "B09SBMX9TZ",
+          "link": "https://www.amazon.fr/Puff-Bubble-Juice-AromaPuff-nicotine/dp/B09SBMX9TZ/ref=sr_1_64?keywords=cigarette+CBD&qid=1694268134&sr=8-64"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 7.99,
+        "raw": "\u20ac7,99",
+        "name": "7,99\u00a0\u20ac",
+        "asin": "B09SBMX9TZ",
+        "link": "https://www.amazon.fr/Puff-Bubble-Juice-AromaPuff-nicotine/dp/B09SBMX9TZ/ref=sr_1_64?keywords=cigarette+CBD&qid=1694268134&sr=8-64"
+      },
+      "page": 2,
+      "position_overall": 64
+    },
+    {
+      "position": 17,
+      "title": "BASE VAPE 1L OIL4VAP 70% VG-30% PG Qualit\u00e9 pharmaceutique",
+      "asin": "B076218YS5",
+      "link": "https://www.amazon.fr/BASE-OIL4VAP-VG-30-Qualit%C3%A9-pharmaceutique/dp/B076218YS5/ref=sr_1_65?keywords=cigarette+CBD&qid=1694268134&sr=8-65&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51qwuvlatLL._AC_UL400_.jpg",
+      "rating": 4.2,
+      "ratings_total": 141,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 14.93,
+          "raw": "\u20acAucune offre mise en avant14,93",
+          "asin": "B076218YS5",
+          "link": "https://www.amazon.fr/BASE-OIL4VAP-VG-30-Qualit%C3%A9-pharmaceutique/dp/B076218YS5/ref=sr_1_65?keywords=cigarette+CBD&qid=1694268134&sr=8-65"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 14.93,
+        "raw": "\u20acAucune offre mise en avant14,93",
+        "asin": "B076218YS5",
+        "link": "https://www.amazon.fr/BASE-OIL4VAP-VG-30-Qualit%C3%A9-pharmaceutique/dp/B076218YS5/ref=sr_1_65?keywords=cigarette+CBD&qid=1694268134&sr=8-65"
+      },
+      "page": 2,
+      "position_overall": 65
+    },
+    {
+      "position": 18,
+      "title": "Justfog Q16 Kit de d\u00e9marrage Style stylo vape Cigarettes \u00e9lectroniques avec J-Easy 9 Mod (Argent)",
+      "asin": "B07KK4NFMT",
+      "link": "https://www.amazon.fr/Justfog-d%C3%A9marrage-Cigarettes-%C3%A9lectroniques-J-Easy/dp/B07KK4NFMT/ref=sr_1_66?keywords=cigarette+CBD&qid=1694268134&sr=8-66&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/21kks0wg9SL._AC_UL400_.jpg",
+      "unit_price": "22,05\u00a0\u20ac/unit\u00e9",
+      "rating": 4.1,
+      "ratings_total": 1833,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 22.05,
+          "raw": "\u20ac22,05",
+          "asin": "B07KK4NFMT",
+          "link": "https://www.amazon.fr/Justfog-d%C3%A9marrage-Cigarettes-%C3%A9lectroniques-J-Easy/dp/B07KK4NFMT/ref=sr_1_66?keywords=cigarette+CBD&qid=1694268134&sr=8-66"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 22.05,
+        "raw": "\u20ac22,05",
+        "asin": "B07KK4NFMT",
+        "link": "https://www.amazon.fr/Justfog-d%C3%A9marrage-Cigarettes-%C3%A9lectroniques-J-Easy/dp/B07KK4NFMT/ref=sr_1_66?keywords=cigarette+CBD&qid=1694268134&sr=8-66"
+      },
+      "page": 2,
+      "position_overall": 66
+    },
+    {
+      "position": 19,
+      "title": "E-liquide - France e liquide saveur Pomme Verte sans nicotine - 10ML pour cigarette \u00e9lectronique sans nicotine ni tabac par Volumica",
+      "asin": "512021746X",
+      "link": "https://www.amazon.fr/liquide-nicotine-cigarette-%C3%A9lectronique-Volumica/dp/512021746X/ref=sr_1_67?keywords=cigarette+CBD&qid=1694268134&sr=8-67&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/31P3jNDKoCL._AC_UL400_.jpg",
+      "unit_price": "200,00\u00a0\u20ac/l",
+      "rating": 3.5,
+      "ratings_total": 85,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 2,
+          "raw": "\u20ac2,00",
+          "name": "2,00\u00a0\u20ac",
+          "asin": "512021746X",
+          "link": "https://www.amazon.fr/liquide-nicotine-cigarette-%C3%A9lectronique-Volumica/dp/512021746X/ref=sr_1_67?keywords=cigarette+CBD&qid=1694268134&sr=8-67"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 2,
+        "raw": "\u20ac2,00",
+        "name": "2,00\u00a0\u20ac",
+        "asin": "512021746X",
+        "link": "https://www.amazon.fr/liquide-nicotine-cigarette-%C3%A9lectronique-Volumica/dp/512021746X/ref=sr_1_67?keywords=cigarette+CBD&qid=1694268134&sr=8-67"
+      },
+      "page": 2,
+      "position_overall": 67
+    },
+    {
+      "position": 20,
+      "title": "E-LIQUIDE 100ML SAVEUR DRAGIBUS - MIX - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C7PHH8WQ",
+      "link": "https://www.amazon.fr/LIQUIDE-100ML-SAVEUR-DRAGIBUS-CIGARETTE/dp/B0C7PHH8WQ/ref=sr_1_68?keywords=cigarette+CBD&qid=1694268134&sr=8-68&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51gsAnaR7ZL._AC_UL400_.jpg",
+      "unit_price": "99,90\u00a0\u20ac/l",
+      "rating": 2.7,
+      "ratings_total": 6,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.99,
+          "raw": "\u20ac9,99",
+          "asin": "B0C7PHH8WQ",
+          "link": "https://www.amazon.fr/LIQUIDE-100ML-SAVEUR-DRAGIBUS-CIGARETTE/dp/B0C7PHH8WQ/ref=sr_1_68?keywords=cigarette+CBD&qid=1694268134&sr=8-68"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.99,
+        "raw": "\u20ac9,99",
+        "asin": "B0C7PHH8WQ",
+        "link": "https://www.amazon.fr/LIQUIDE-100ML-SAVEUR-DRAGIBUS-CIGARETTE/dp/B0C7PHH8WQ/ref=sr_1_68?keywords=cigarette+CBD&qid=1694268134&sr=8-68"
+      },
+      "page": 2,
+      "position_overall": 68
+    },
+    {
+      "position": 21,
+      "title": "Puff Sans Nicotine, Chic Bar Cigarette \u00c9lectronique Jetable Sans Tabac puff 600 taff, Puff Lot de 6",
+      "asin": "B0C3VD4XS9",
+      "link": "https://www.amazon.fr/Nicotine-Chic-Bar-Cigarette-%C3%89lectronique/dp/B0C3VD4XS9/ref=sr_1_69?keywords=cigarette+CBD&qid=1694268134&sr=8-69&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71shgP2CQiL._AC_UL400_.jpg",
+      "unit_price": "4,83\u00a0\u20ac/Pi\u00e8ce",
+      "is_prime": true,
+      "rating": 4.3,
+      "ratings_total": 62,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 28.99,
+          "raw": "\u20ac28,99",
+          "name": "\u00c9conomisez 3%",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 29.99,
+          "raw": "\u20ac29,99",
+          "name": "\u00c9conomisez 3%",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 28.99,
+        "raw": "\u20ac28,99",
+        "name": "\u00c9conomisez 3%",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 69
+    },
+    {
+      "position": 22,
+      "title": "Vaptio RAZOR kit de d\u00e9marrage avec atomiseur 2.0ML Batterie 550 mAh Syst\u00e8me de pod Kit vaporisateur de cigarette \u00e9lectronique sans e liquide sans nicotine (vert)",
+      "asin": "B09JG66ZP9",
+      "link": "https://www.amazon.fr/d%C3%A9marrage-atomiseur-vaporisateur-cigarette-%C3%A9lectronique/dp/B09JG66ZP9/ref=sr_1_70?keywords=cigarette+CBD&qid=1694268134&sr=8-70&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61L0vZVGnKL._AC_UL400_.jpg",
+      "unit_price": "15,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.7,
+      "ratings_total": 137,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 15.99,
+          "raw": "\u20ac15,99",
+          "name": "15,99\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 18.33,
+          "raw": "\u20ac18,33",
+          "name": "15,99\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 15.99,
+        "raw": "\u20ac15,99",
+        "name": "15,99\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 70
+    },
+    {
+      "position": 23,
+      "title": "Ciberate 5pcs C-B-D Cartouche de bobine en c\u00e9ramique rechargeable Vaping R\u00e9servoir d'atomiseur eCig pour E Cigarette Vape Pens Starter Kits Compatible 510 Thread Battery No Nicontine No Tobacco",
+      "asin": "B092CB7M9R",
+      "link": "https://www.amazon.fr/Ciberate-Cartouche-rechargeable-datomiseur-Compatible/dp/B092CB7M9R/ref=sr_1_71?keywords=cigarette+CBD&qid=1694268134&sr=8-71&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41FWBLFhvUL._AC_UL400_.jpg",
+      "unit_price": "3,80\u00a0\u20ac/unit\u00e9",
+      "rating": 3.5,
+      "ratings_total": 22,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 18.99,
+          "raw": "\u20ac18,99",
+          "name": "18,99\u00a0\u20ac",
+          "asin": "B092CB7M9R",
+          "link": "https://www.amazon.fr/Ciberate-Cartouche-rechargeable-datomiseur-Compatible/dp/B092CB7M9R/ref=sr_1_71?keywords=cigarette+CBD&qid=1694268134&sr=8-71"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 18.99,
+        "raw": "\u20ac18,99",
+        "name": "18,99\u00a0\u20ac",
+        "asin": "B092CB7M9R",
+        "link": "https://www.amazon.fr/Ciberate-Cartouche-rechargeable-datomiseur-Compatible/dp/B092CB7M9R/ref=sr_1_71?keywords=cigarette+CBD&qid=1694268134&sr=8-71"
+      },
+      "page": 2,
+      "position_overall": 71
+    },
+    {
+      "position": 24,
+      "title": "CCELL M3B Batterie en acier inoxydable 350 mAh pour cartouches \u00e0 filetage 510 pour CBD et huiles \u00e9paisses \u2013 Activ\u00e9e par inhalation \u2013 Sans nicotine",
+      "asin": "B0CF61K812",
+      "link": "https://www.amazon.fr/Batterie-inoxydable-cartouches-filetage-%C3%A9paisses/dp/B0CF61K812/ref=sr_1_72?keywords=cigarette+CBD&qid=1694268134&sr=8-72&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/510ooFVkbaL._AC_UL400_.jpg",
+      "unit_price": "17,37\u00a0\u20ac/unit\u00e9",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 17.37,
+          "raw": "\u20ac17,37",
+          "asin": "B0CF61K812",
+          "link": "https://www.amazon.fr/Batterie-inoxydable-cartouches-filetage-%C3%A9paisses/dp/B0CF61K812/ref=sr_1_72?keywords=cigarette+CBD&qid=1694268134&sr=8-72"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 17.37,
+        "raw": "\u20ac17,37",
+        "asin": "B0CF61K812",
+        "link": "https://www.amazon.fr/Batterie-inoxydable-cartouches-filetage-%C3%A9paisses/dp/B0CF61K812/ref=sr_1_72?keywords=cigarette+CBD&qid=1694268134&sr=8-72"
+      },
+      "page": 2,
+      "position_overall": 72
+    },
+    {
+      "position": 25,
+      "title": "VAPTIO Tyro Nano Kit Tout-en-un E-cigarette 900mAh 30W Cigarette \u00e9lectronique,Vape Pen avec bobine de 1,6 ohm,sans liquide sans nicotine (Noir)",
+      "asin": "B0BJTZKJ7Z",
+      "link": "https://www.amazon.fr/VAPTIO-Tout-en-cigarette-Cigarette-%C3%A9lectronique/dp/B0BJTZKJ7Z/ref=sr_1_73?keywords=cigarette+CBD&qid=1694268134&sr=8-73&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51QDGaixNaL._AC_UL400_.jpg",
+      "unit_price": "17,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.9,
+      "ratings_total": 573,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 17.99,
+          "raw": "\u20ac17,99",
+          "name": "17,99\u00a0\u20ac",
+          "asin": "B0BJTZKJ7Z",
+          "link": "https://www.amazon.fr/VAPTIO-Tout-en-cigarette-Cigarette-%C3%A9lectronique/dp/B0BJTZKJ7Z/ref=sr_1_73?keywords=cigarette+CBD&qid=1694268134&sr=8-73"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 17.99,
+        "raw": "\u20ac17,99",
+        "name": "17,99\u00a0\u20ac",
+        "asin": "B0BJTZKJ7Z",
+        "link": "https://www.amazon.fr/VAPTIO-Tout-en-cigarette-Cigarette-%C3%A9lectronique/dp/B0BJTZKJ7Z/ref=sr_1_73?keywords=cigarette+CBD&qid=1694268134&sr=8-73"
+      },
+      "page": 2,
+      "position_overall": 73
+    },
+    {
+      "position": 26,
+      "title": "E-Liquid USA MIX RESERVE - 100 ml - Flacon 120ml - Sans Nicotine ni Tabac 0MG - 70/30 - E Liquide pour cigarette \u00e9lectronique E Liquide vapoteuse",
+      "asin": "B0C9MMZV3D",
+      "link": "https://www.amazon.fr/Liquid-USA-MIX-RESERVE-%C3%A9lectronique/dp/B0C9MMZV3D/ref=sr_1_74?keywords=cigarette+CBD&qid=1694268134&sr=8-74&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 11\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81zWjVjnD3L._AC_UL400_.jpg",
+      "unit_price": "13,00\u00a0\u20ac/Pi\u00e8ce",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 13,
+          "raw": "\u20ac13,00",
+          "asin": "B0C9MMZV3D",
+          "link": "https://www.amazon.fr/Liquid-USA-MIX-RESERVE-%C3%A9lectronique/dp/B0C9MMZV3D/ref=sr_1_74?keywords=cigarette+CBD&qid=1694268134&sr=8-74"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 13,
+        "raw": "\u20ac13,00",
+        "asin": "B0C9MMZV3D",
+        "link": "https://www.amazon.fr/Liquid-USA-MIX-RESERVE-%C3%A9lectronique/dp/B0C9MMZV3D/ref=sr_1_74?keywords=cigarette+CBD&qid=1694268134&sr=8-74"
+      },
+      "page": 2,
+      "position_overall": 74
+    },
+    {
+      "position": 27,
+      "title": "Vape avec concentr\u00e9 CBD 300 mg (15%) | 600 bouff\u00e9es | Saveur de Gum Boom | Sans nicotine | Cigarette \u00e9lectronique jetable | DARWIN CBD",
+      "asin": "B0C3HXZBZN",
+      "link": "https://www.amazon.fr/dp/B0C3HXZBZN/ref=sr_1_75?keywords=cigarette+CBD&qid=1694268134&sr=8-75&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51pWNypbJBL._AC_UL400_.jpg",
+      "unit_price": "19,90\u00a0\u20ac/Total",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "asin": "B0C3HXZBZN",
+          "link": "https://www.amazon.fr/dp/B0C3HXZBZN/ref=sr_1_75?keywords=cigarette+CBD&qid=1694268134&sr=8-75"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "asin": "B0C3HXZBZN",
+        "link": "https://www.amazon.fr/dp/B0C3HXZBZN/ref=sr_1_75?keywords=cigarette+CBD&qid=1694268134&sr=8-75"
+      },
+      "page": 2,
+      "position_overall": 75
+    },
+    {
+      "position": 28,
+      "title": "E-LIQUIDE 50ML SAVEUR TABAC BLOND AMERICAIN - PREMIUM 770 - E-CIGARETTE - SANS TABAC - SANS NICOTINE",
+      "asin": "B0C2W4NZSD",
+      "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-TABAC-AMERICAIN-CIGARETTE/dp/B0C2W4NZSD/ref=sr_1_76?keywords=cigarette+CBD&qid=1694268134&sr=8-76&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61xM8OPAi3L._AC_UL400_.jpg",
+      "unit_price": "139,80\u00a0\u20ac/l",
+      "rating": 4,
+      "ratings_total": 32,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 6.99,
+          "raw": "\u20ac6,99",
+          "asin": "B0C2W4NZSD",
+          "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-TABAC-AMERICAIN-CIGARETTE/dp/B0C2W4NZSD/ref=sr_1_76?keywords=cigarette+CBD&qid=1694268134&sr=8-76"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 6.99,
+        "raw": "\u20ac6,99",
+        "asin": "B0C2W4NZSD",
+        "link": "https://www.amazon.fr/LIQUIDE-SAVEUR-TABAC-AMERICAIN-CIGARETTE/dp/B0C2W4NZSD/ref=sr_1_76?keywords=cigarette+CBD&qid=1694268134&sr=8-76"
+      },
+      "page": 2,
+      "position_overall": 76
+    },
+    {
+      "position": 29,
+      "title": "Vaptio AIRGO STICK Kit de d\u00e9marrage Cartouche Vape 1.5ml Vaporisateur Cigarette Electronique 11W sans e liquide sans nicotine (Argent_Blanc AIRGO STICK)",
+      "asin": "B09KBV789J",
+      "link": "https://www.amazon.fr/d%C3%A9marrage-Cartouche-Vaporisateur-Cigarette-Electronique/dp/B09KBV789J/ref=sr_1_77?keywords=cigarette+CBD&qid=1694268134&sr=8-77&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41DtFoSv3yS._AC_UL400_.jpg",
+      "unit_price": "9,99\u00a0\u20ac/unit\u00e9",
+      "rating": 3.6,
+      "ratings_total": 117,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.99,
+          "raw": "\u20ac9,99",
+          "name": "9,99\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 13.99,
+          "raw": "\u20ac13,99",
+          "name": "9,99\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.99,
+        "raw": "\u20ac9,99",
+        "name": "9,99\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 77
+    },
+    {
+      "position": 30,
+      "title": "Ezee Puff Cigarette \u00c9lectronique Jetable Saveur Menthol E-liquide Sans Nicotine Ni Tabac E-Cigarette Batterie 280mAh Paquet de 2",
+      "asin": "B089W2LLZP",
+      "link": "https://www.amazon.fr/Ezee-Cigarette-%C3%89lectronique-liquide-Cigarette/dp/B089W2LLZP/ref=sr_1_78?keywords=cigarette+CBD&qid=1694268134&sr=8-78&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61h9Bypi+8L._AC_UL400_.jpg",
+      "unit_price": "4,40\u00a0\u20ac/unit\u00e9",
+      "rating": 3.5,
+      "ratings_total": 62,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 8.79,
+          "raw": "\u20ac8,79",
+          "name": "8,79\u00a0\u20ac",
+          "asin": "B089W2LLZP",
+          "link": "https://www.amazon.fr/Ezee-Cigarette-%C3%89lectronique-liquide-Cigarette/dp/B089W2LLZP/ref=sr_1_78?keywords=cigarette+CBD&qid=1694268134&sr=8-78"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 8.79,
+        "raw": "\u20ac8,79",
+        "name": "8,79\u00a0\u20ac",
+        "asin": "B089W2LLZP",
+        "link": "https://www.amazon.fr/Ezee-Cigarette-%C3%89lectronique-liquide-Cigarette/dp/B089W2LLZP/ref=sr_1_78?keywords=cigarette+CBD&qid=1694268134&sr=8-78"
+      },
+      "page": 2,
+      "position_overall": 78
+    },
+    {
+      "position": 31,
+      "title": "Kit eRoll MAC Silver Joyetech - Sans tabac ni nicotine - Vente interdite au moins de 18 ans - Produit vendu \u00e0 l'unit\u00e9 - Photo non contractuelle - AMAVAPE",
+      "asin": "B07W7KDFZY",
+      "link": "https://www.amazon.fr/eRoll-MAC-Silver-Joyetech-contractuelle/dp/B07W7KDFZY/ref=sr_1_79_mod_primary_new?keywords=cigarette+CBD&qid=1694268134&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=8-79&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41N6ipEc3HL._AC_UL400_.jpg",
+      "unit_price": "14,90\u00a0\u20ac/unit\u00e9",
+      "rating": 4.3,
+      "ratings_total": 18,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 14.9,
+          "raw": "\u20ac14,90",
+          "name": "14,90\u00a0\u20ac"
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 12.9,
+          "raw": "\u20ac12,90",
+          "name": "12,90\u00a0\u20ac"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 14.9,
+        "raw": "\u20ac14,90",
+        "name": "14,90\u00a0\u20ac"
+      },
+      "page": 2,
+      "position_overall": 79
+    },
+    {
+      "position": 32,
+      "title": "Kit d'origine Joy.etech eGo 510 avec cartouche de pod de 2 ml 18 W Batterie int\u00e9gr\u00e9e de 850 mAh Fit 0.8ohm Coil 510 fil Kit de cigarette \u00e9lectronique Vape Pen",
+      "asin": "B0BRMWW9D7",
+      "link": "https://www.amazon.fr/dorigine-Joy-etech-cartouche-cigarette-%C3%A9lectronique/dp/B0BRMWW9D7/ref=sr_1_80?keywords=cigarette+CBD&qid=1694268134&sr=8-80&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41f66+aT9GL._AC_UL400_.jpg",
+      "unit_price": "17,17\u00a0\u20ac/unit\u00e9",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 17.17,
+          "raw": "\u20ac17,17",
+          "asin": "B0BRMWW9D7",
+          "link": "https://www.amazon.fr/dorigine-Joy-etech-cartouche-cigarette-%C3%A9lectronique/dp/B0BRMWW9D7/ref=sr_1_80?keywords=cigarette+CBD&qid=1694268134&sr=8-80"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 17.17,
+        "raw": "\u20ac17,17",
+        "asin": "B0BRMWW9D7",
+        "link": "https://www.amazon.fr/dorigine-Joy-etech-cartouche-cigarette-%C3%A9lectronique/dp/B0BRMWW9D7/ref=sr_1_80?keywords=cigarette+CBD&qid=1694268134&sr=8-80"
+      },
+      "page": 2,
+      "position_overall": 80
+    },
+    {
+      "position": 33,
+      "title": "Cigarette Electronique Kit Complet E Cigarette et 5x10ml E liquide 80W Mod Kit avec Atomiseur 0,5 Ohm/ 3ml Batterie 2000mAh Vape, \u00e9cran LED Watt r\u00e9glable 0,0mg nicotine E Chicha KUBO LZ80W - Noir",
+      "asin": "B08TBVKY9W",
+      "link": "https://www.amazon.fr/Cigarette-Electronique-Atomiseur-Batterie-LZ80W/dp/B08TBVKY9W/ref=sr_1_81?keywords=cigarette+CBD&qid=1694268134&sr=8-81&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71KaGOQAhyL._AC_UL400_.jpg",
+      "unit_price": "40,99\u00a0\u20ac/unit\u00e9",
+      "is_prime": true,
+      "rating": 3.5,
+      "ratings_total": 596,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 40.99,
+          "raw": "\u20ac40,99",
+          "asin": "B08TBVKY9W",
+          "link": "https://www.amazon.fr/Cigarette-Electronique-Atomiseur-Batterie-LZ80W/dp/B08TBVKY9W/ref=sr_1_81?keywords=cigarette+CBD&qid=1694268134&sr=8-81"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 40.99,
+        "raw": "\u20ac40,99",
+        "asin": "B08TBVKY9W",
+        "link": "https://www.amazon.fr/Cigarette-Electronique-Atomiseur-Batterie-LZ80W/dp/B08TBVKY9W/ref=sr_1_81?keywords=cigarette+CBD&qid=1694268134&sr=8-81"
+      },
+      "page": 2,
+      "position_overall": 81
+    },
+    {
+      "position": 34,
+      "title": "Vape avec concentr\u00e9 CBD 300 mg (15%) | 600 bouff\u00e9es | Saveur de Cerise et Fruits Rouges | Sans nicotine | Cigarette \u00e9lectronique jetable | DARWIN CBD",
+      "asin": "B0C3J2NQKX",
+      "link": "https://www.amazon.fr/dp/B0C3J2NQKX/ref=sr_1_82?keywords=cigarette+CBD&qid=1694268134&sr=8-82&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/5197iduZ7JL._AC_UL400_.jpg",
+      "unit_price": "19,90\u00a0\u20ac/Total",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 19.9,
+          "raw": "\u20ac19,90",
+          "asin": "B0C3J2NQKX",
+          "link": "https://www.amazon.fr/dp/B0C3J2NQKX/ref=sr_1_82?keywords=cigarette+CBD&qid=1694268134&sr=8-82"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 19.9,
+        "raw": "\u20ac19,90",
+        "asin": "B0C3J2NQKX",
+        "link": "https://www.amazon.fr/dp/B0C3J2NQKX/ref=sr_1_82?keywords=cigarette+CBD&qid=1694268134&sr=8-82"
+      },
+      "page": 2,
+      "position_overall": 82
+    },
+    {
+      "position": 35,
+      "title": "Manvap cigarette \u00e9lectronique Kit complet Vrod Vape, Top Fill Atomiseur 5ml avec 5x10ml E-Liquide, Sans Nicotine",
+      "asin": "B0BW41XHHT",
+      "link": "https://www.amazon.fr/Manvap-cigarette-%C3%A9lectronique-Atomiseur-Liquide/dp/B0BW41XHHT/ref=sr_1_83?keywords=cigarette+CBD&qid=1694268134&sr=8-83&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/712F09wGUNL._AC_UL400_.jpg",
+      "unit_price": "37,99\u00a0\u20ac/Box",
+      "is_prime": true,
+      "rating": 3.5,
+      "ratings_total": 7,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 37.99,
+          "raw": "\u20ac37,99",
+          "name": "37,99\u00a0\u20ac",
+          "asin": "B0BW41XHHT",
+          "link": "https://www.amazon.fr/Manvap-cigarette-%C3%A9lectronique-Atomiseur-Liquide/dp/B0BW41XHHT/ref=sr_1_83?keywords=cigarette+CBD&qid=1694268134&sr=8-83"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 37.99,
+        "raw": "\u20ac37,99",
+        "name": "37,99\u00a0\u20ac",
+        "asin": "B0BW41XHHT",
+        "link": "https://www.amazon.fr/Manvap-cigarette-%C3%A9lectronique-Atomiseur-Liquide/dp/B0BW41XHHT/ref=sr_1_83?keywords=cigarette+CBD&qid=1694268134&sr=8-83"
+      },
+      "page": 2,
+      "position_overall": 83
+    },
+    {
+      "position": 36,
+      "title": "CrazyCrunsh p\u00e9tales de bl\u00e9 , cacahu\u00e8te , vanille, caramel et popcorn 50ML- 0MG VAP'FUSION 50/50 PG/VG - Sans nicotine ni tabac",
+      "asin": "B09MS4Q3QG",
+      "link": "https://www.amazon.fr/CrazyCrunsh-p%C3%A9tales-cacahu%C3%A8te-vanille-VAPFUSION/dp/B09MS4Q3QG/ref=sr_1_84?keywords=cigarette+CBD&qid=1694268134&sr=8-84&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61n--lKjwOL._AC_UL400_.jpg",
+      "unit_price": "9,50\u00a0\u20ac/Count",
+      "rating": 3.7,
+      "ratings_total": 28,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.5,
+          "raw": "\u20ac9,50",
+          "name": "9,50\u00a0\u20ac",
+          "asin": "B09MS4Q3QG",
+          "link": "https://www.amazon.fr/CrazyCrunsh-p%C3%A9tales-cacahu%C3%A8te-vanille-VAPFUSION/dp/B09MS4Q3QG/ref=sr_1_84?keywords=cigarette+CBD&qid=1694268134&sr=8-84"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.5,
+        "raw": "\u20ac9,50",
+        "name": "9,50\u00a0\u20ac",
+        "asin": "B09MS4Q3QG",
+        "link": "https://www.amazon.fr/CrazyCrunsh-p%C3%A9tales-cacahu%C3%A8te-vanille-VAPFUSION/dp/B09MS4Q3QG/ref=sr_1_84?keywords=cigarette+CBD&qid=1694268134&sr=8-84"
+      },
+      "page": 2,
+      "position_overall": 84
+    },
+    {
+      "position": 37,
+      "title": "Vapeble Vaporizer Nebel - Vaporisateur avec embout en verre, \u00e9cran OLED et contr\u00f4le continu de la temp\u00e9rature - R\u00e9alise des super-vape aux herbes s\u00e8ches.",
+      "asin": "B0784T2WPC",
+      "link": "https://www.amazon.fr/Vapeble-Vaporizer-Nebel-Evaporateur-temp%C3%A9rature/dp/B0784T2WPC/ref=sr_1_85?keywords=cigarette+CBD&qid=1694268134&sr=8-85&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51-q5NfwiqL._AC_UL400_.jpg",
+      "is_prime": true,
+      "rating": 3.9,
+      "ratings_total": 1172,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 59.9,
+          "raw": "\u20ac59,90",
+          "name": "59,90\u00a0\u20ac",
+          "asin": "B0784T2WPC",
+          "link": "https://www.amazon.fr/Vapeble-Vaporizer-Nebel-Evaporateur-temp%C3%A9rature/dp/B0784T2WPC/ref=sr_1_85?keywords=cigarette+CBD&qid=1694268134&sr=8-85"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 59.9,
+        "raw": "\u20ac59,90",
+        "name": "59,90\u00a0\u20ac",
+        "asin": "B0784T2WPC",
+        "link": "https://www.amazon.fr/Vapeble-Vaporizer-Nebel-Evaporateur-temp%C3%A9rature/dp/B0784T2WPC/ref=sr_1_85?keywords=cigarette+CBD&qid=1694268134&sr=8-85"
+      },
+      "page": 2,
+      "position_overall": 85
+    },
+    {
+      "position": 38,
+      "title": "Vaporesso LUXE Q Kit | Original Vaporesso 2ml Capacity SSS Leak-Resistant 1000mAh Battery 0.8ohm 1.2ohm Coil Pod Vaper E-cig Vape Mod Vaping",
+      "asin": "B09KX9DCYT",
+      "link": "https://www.amazon.fr/Vaporesso-Original-Capacity-Leak-Resistant-1000mAh/dp/B09KX9DCYT/ref=sr_1_86?keywords=cigarette+CBD&qid=1694268134&sr=8-86&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/317A5lJHNEL._AC_UL400_.jpg",
+      "unit_price": "26,00\u00a0\u20ac/unit\u00e9",
+      "rating": 4.2,
+      "ratings_total": 162,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 26,
+          "raw": "\u20ac26,00",
+          "asin": "B09KX9DCYT",
+          "link": "https://www.amazon.fr/Vaporesso-Original-Capacity-Leak-Resistant-1000mAh/dp/B09KX9DCYT/ref=sr_1_86?keywords=cigarette+CBD&qid=1694268134&sr=8-86"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 26,
+        "raw": "\u20ac26,00",
+        "asin": "B09KX9DCYT",
+        "link": "https://www.amazon.fr/Vaporesso-Original-Capacity-Leak-Resistant-1000mAh/dp/B09KX9DCYT/ref=sr_1_86?keywords=cigarette+CBD&qid=1694268134&sr=8-86"
+      },
+      "page": 2,
+      "position_overall": 86
+    },
+    {
+      "position": 39,
+      "title": "DE \u2013 Lot de 3 paquets de E-cigarettes jetables, au go\u00fbt tabac de 400 bouff\u00e9es (Sans nicotine ni tabac, Vente interdite aux personnes \u00e2g\u00e9es de moins de18 ans.) Marron",
+      "asin": "B09MBDJ4GC",
+      "link": "https://www.amazon.fr/cigarettes-jetables-bouff%C3%A9es-batterie-nicotine/dp/B09MBDJ4GC/ref=sr_1_87?keywords=cigarette+CBD&qid=1694268134&sr=8-87&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61TZ4MqZv2L._AC_UL400_.jpg",
+      "unit_price": "7,97\u00a0\u20ac/unit\u00e9",
+      "rating": 3.1,
+      "ratings_total": 59,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 23.9,
+          "raw": "\u20ac23,90",
+          "name": "23,90\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 24.9,
+          "raw": "\u20ac24,90",
+          "name": "23,90\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 23.9,
+        "raw": "\u20ac23,90",
+        "name": "23,90\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 87
+    },
+    {
+      "position": 40,
+      "title": "Vaporisateur FENiX Pro \u00e9vaporateur Premium avec Convection ECA + 25 Sec. Heat-up + Embout Extensible\u2026*Noir* *sans Nicotine*",
+      "asin": "B0823ZJXFW",
+      "link": "https://www.amazon.fr/WOLKENKRAFT-Vaporisateur-Technologie-Convection-r%C3%A9tractable/dp/B0823ZJXFW/ref=sr_1_88?keywords=cigarette+CBD&qid=1694268134&sr=8-88&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/81vGW41CV2L._AC_UL400_.jpg",
+      "is_prime": true,
+      "rating": 4.2,
+      "ratings_total": 395,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 119,
+          "raw": "\u20ac119,00",
+          "name": "119,00\u00a0\u20ac",
+          "asin": "B0823ZJXFW",
+          "link": "https://www.amazon.fr/WOLKENKRAFT-Vaporisateur-Technologie-Convection-r%C3%A9tractable/dp/B0823ZJXFW/ref=sr_1_88?keywords=cigarette+CBD&qid=1694268134&sr=8-88"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 119,
+        "raw": "\u20ac119,00",
+        "name": "119,00\u00a0\u20ac",
+        "asin": "B0823ZJXFW",
+        "link": "https://www.amazon.fr/WOLKENKRAFT-Vaporisateur-Technologie-Convection-r%C3%A9tractable/dp/B0823ZJXFW/ref=sr_1_88?keywords=cigarette+CBD&qid=1694268134&sr=8-88"
+      },
+      "page": 2,
+      "position_overall": 88
+    },
+    {
+      "position": 41,
+      "title": "Vape Puff 95% THCP 250 bouff\u00e9es jetable | 80% H4CBD | effets puissants du H.H.C | sans Nicotine | relaxation et bien-\u00eatre | go\u00fbt fruits de la passion mangue 0.5ml | sans solvants ni agents de coupe",
+      "asin": "B0CH2GNZFH",
+      "link": "https://www.amazon.fr/bouff%C3%A9es-puissants-Nicotine-relaxation-bien-%C3%AAtre/dp/B0CH2GNZFH/ref=sr_1_89?keywords=cigarette+CBD&qid=1694268134&sr=8-89&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 6\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/31aQZ2x3CJL._AC_UL400_.jpg",
+      "unit_price": "32,90\u00a0\u20ac/Millilitres",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 32.9,
+          "raw": "\u20ac32,90",
+          "asin": "B0CH2GNZFH",
+          "link": "https://www.amazon.fr/bouff%C3%A9es-puissants-Nicotine-relaxation-bien-%C3%AAtre/dp/B0CH2GNZFH/ref=sr_1_89?keywords=cigarette+CBD&qid=1694268134&sr=8-89"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 32.9,
+        "raw": "\u20ac32,90",
+        "asin": "B0CH2GNZFH",
+        "link": "https://www.amazon.fr/bouff%C3%A9es-puissants-Nicotine-relaxation-bien-%C3%AAtre/dp/B0CH2GNZFH/ref=sr_1_89?keywords=cigarette+CBD&qid=1694268134&sr=8-89"
+      },
+      "page": 2,
+      "position_overall": 89
+    },
+    {
+      "position": 42,
+      "title": "Vape cigarette \u00e9lectronique jetable. Big puff sans nicotine au ar\u00f4mes avec + 700 taff. Wpuff sans nicotine avec liquide pr\u00e9-rempli. Profitez de plus de 700 taff\u00e9es au go\u00fbt d\u00e9licieux (Baies mixtes)",
+      "asin": "B0C6Q7FKC3",
+      "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-jetable-pr%C3%A9-rempli-d%C3%A9licieux/dp/B0C6Q7FKC3/ref=sr_1_90?keywords=cigarette+CBD&qid=1694268134&sr=8-90&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/61HxRQcn9EL._AC_UL400_.jpg",
+      "unit_price": "8,90\u00a0\u20ac/Pi\u00e8ce",
+      "rating": 3.9,
+      "ratings_total": 575,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 8.9,
+          "raw": "\u20ac8,90",
+          "name": "8,90\u00a0\u20ac",
+          "asin": "B0C6Q7FKC3",
+          "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-jetable-pr%C3%A9-rempli-d%C3%A9licieux/dp/B0C6Q7FKC3/ref=sr_1_90?keywords=cigarette+CBD&qid=1694268134&sr=8-90"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 8.9,
+        "raw": "\u20ac8,90",
+        "name": "8,90\u00a0\u20ac",
+        "asin": "B0C6Q7FKC3",
+        "link": "https://www.amazon.fr/cigarette-%C3%A9lectronique-jetable-pr%C3%A9-rempli-d%C3%A9licieux/dp/B0C6Q7FKC3/ref=sr_1_90?keywords=cigarette+CBD&qid=1694268134&sr=8-90"
+      },
+      "page": 2,
+      "position_overall": 90
+    },
+    {
+      "position": 43,
+      "title": "Pack Stache Rainbow & Golden Buds Vapoteuse OG Kush - sans nicotine ni tabac",
+      "asin": "B0C9QTD542",
+      "link": "https://www.amazon.fr/Pack-Stache-Rainbow-Golden-Vapoteuse/dp/B0C9QTD542/ref=sr_1_91?keywords=cigarette+CBD&qid=1694268134&sr=8-91&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/31zpWNAo7UL._AC_UL400_.jpg",
+      "unit_price": "41,90\u00a0\u20ac/unit\u00e9",
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 41.9,
+          "raw": "\u20ac41,90",
+          "asin": "B0C9QTD542",
+          "link": "https://www.amazon.fr/Pack-Stache-Rainbow-Golden-Vapoteuse/dp/B0C9QTD542/ref=sr_1_91?keywords=cigarette+CBD&qid=1694268134&sr=8-91"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 41.9,
+        "raw": "\u20ac41,90",
+        "asin": "B0C9QTD542",
+        "link": "https://www.amazon.fr/Pack-Stache-Rainbow-Golden-Vapoteuse/dp/B0C9QTD542/ref=sr_1_91?keywords=cigarette+CBD&qid=1694268134&sr=8-91"
+      },
+      "page": 2,
+      "position_overall": 91
+    },
+    {
+      "position": 44,
+      "title": "VUSE ePod 2 Kit Simple - Cigarette \u00c9lectronique Automatique \u2013 Chargement Rapide \u2013 Couleur\u00a0: Argent - Compatible avec Capsules VUSE ePod (vendues s\u00e9par\u00e9ment)",
+      "asin": "B0B2YYTP4P",
+      "link": "https://www.amazon.fr/VUSE-ePod-Kit-Simple-%C3%89lectronique/dp/B0B2YYTP4P/ref=sr_1_92?keywords=cigarette+CBD&qid=1694268134&sr=8-92&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/31YaRMGG4oL._AC_UL400_.jpg",
+      "rating": 4.4,
+      "ratings_total": 147,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 9.99,
+          "raw": "\u20acAucune offre mise en avant9,99",
+          "asin": "B0B2YYTP4P",
+          "link": "https://www.amazon.fr/VUSE-ePod-Kit-Simple-%C3%89lectronique/dp/B0B2YYTP4P/ref=sr_1_92?keywords=cigarette+CBD&qid=1694268134&sr=8-92"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 9.99,
+        "raw": "\u20acAucune offre mise en avant9,99",
+        "asin": "B0B2YYTP4P",
+        "link": "https://www.amazon.fr/VUSE-ePod-Kit-Simple-%C3%89lectronique/dp/B0B2YYTP4P/ref=sr_1_92?keywords=cigarette+CBD&qid=1694268134&sr=8-92"
+      },
+      "page": 2,
+      "position_overall": 92
+    },
+    {
+      "position": 45,
+      "title": "Lot de 2 - RELAX 50ml en 0mg par ELIQUID France - Sans nicotine ni tabac",
+      "asin": "B0854P163J",
+      "link": "https://www.amazon.fr/Lot-ELIQUID-France-Shake-Nicotine/dp/B0854P163J/ref=sr_1_93?keywords=cigarette+CBD&qid=1694268134&sr=8-93&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/41jdeY459WL._AC_UL400_.jpg",
+      "unit_price": "11,25\u00a0\u20ac/unit\u00e9",
+      "rating": 4.6,
+      "ratings_total": 9,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 22.49,
+          "raw": "\u20ac22,49",
+          "name": "22,49\u00a0\u20ac",
+          "asin": "B0854P163J",
+          "link": "https://www.amazon.fr/Lot-ELIQUID-France-Shake-Nicotine/dp/B0854P163J/ref=sr_1_93?keywords=cigarette+CBD&qid=1694268134&sr=8-93"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 22.49,
+        "raw": "\u20ac22,49",
+        "name": "22,49\u00a0\u20ac",
+        "asin": "B0854P163J",
+        "link": "https://www.amazon.fr/Lot-ELIQUID-France-Shake-Nicotine/dp/B0854P163J/ref=sr_1_93?keywords=cigarette+CBD&qid=1694268134&sr=8-93"
+      },
+      "page": 2,
+      "position_overall": 93
+    },
+    {
+      "position": 46,
+      "title": "LE COQ QUI VAPE E-liquide pour cigarette \u00e9lectronique, Amsterdam Sans nicotine ni tabac",
+      "asin": "B07V5CYB61",
+      "link": "https://www.amazon.fr/COQ-QUI-VAPE-cigarette-%C3%A9lectronique/dp/B07V5CYB61/ref=sr_1_94?keywords=cigarette+CBD&qid=1694268134&sr=8-94&tag=everydaycarry0a-21",
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/71f0eQVlNoL._AC_UL400_.jpg",
+      "unit_price": "14,57\u00a0\u20ac/Unit\u00e9",
+      "rating": 3.6,
+      "ratings_total": 13,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 14.57,
+          "raw": "\u20ac14,57",
+          "name": "14,57\u00a0\u20ac",
+          "is_primary": true
+        },
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 16.28,
+          "raw": "\u20ac16,28",
+          "name": "14,57\u00a0\u20ac",
+          "is_rrp": true
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 14.57,
+        "raw": "\u20ac14,57",
+        "name": "14,57\u00a0\u20ac",
+        "is_primary": true
+      },
+      "page": 2,
+      "position_overall": 94
+    },
+    {
+      "position": 47,
+      "title": "Flawoor. E cigarette jetable 600 puffs Melon miel 0%- Sans tabac- Sans nicotine",
+      "asin": "B09SGDRDQG",
+      "link": "https://www.amazon.fr/Flawoor-cigarette-jetable-tabac-nicotine/dp/B09SGDRDQG/ref=sr_1_95?keywords=cigarette+CBD&qid=1694268134&sr=8-95&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 10\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/11ScCOubk7L._AC_UL400_.jpg",
+      "unit_price": "7,90\u00a0\u20ac/unit\u00e9",
+      "rating": 4.1,
+      "ratings_total": 34,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 7.9,
+          "raw": "\u20ac7,90",
+          "name": "7,90\u00a0\u20ac",
+          "asin": "B09SGDRDQG",
+          "link": "https://www.amazon.fr/Flawoor-cigarette-jetable-tabac-nicotine/dp/B09SGDRDQG/ref=sr_1_95?keywords=cigarette+CBD&qid=1694268134&sr=8-95"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 7.9,
+        "raw": "\u20ac7,90",
+        "name": "7,90\u00a0\u20ac",
+        "asin": "B09SGDRDQG",
+        "link": "https://www.amazon.fr/Flawoor-cigarette-jetable-tabac-nicotine/dp/B09SGDRDQG/ref=sr_1_95?keywords=cigarette+CBD&qid=1694268134&sr=8-95"
+      },
+      "page": 2,
+      "position_overall": 95
+    },
+    {
+      "position": 48,
+      "title": "DRAG X | Original VOOPOO Drag X Mod Pod Kit 80W aliment\u00e9 par batterie 18650 VW Gene.TT Chip Mod 4.5ml r\u00e9servoir avec bobine PnP-VM6 / PnP-VM1 - Sans nicotine",
+      "asin": "B08S2Z5SC6",
+      "link": "https://www.amazon.fr/Original-VOOPOO-Kit-aliment%C3%A9-r%C3%A9servoir/dp/B08S2Z5SC6/ref=sr_1_96?keywords=cigarette+CBD&qid=1694268134&sr=8-96&tag=everydaycarry0a-21",
+      "availability": {
+        "raw": "Il ne reste plus que 5\u00a0exemplaire(s) en stock."
+      },
+      "categories": [{ "name": "Toutes nos cat\u00e9gories", "id": "aps" }],
+      "image": "https://m.media-amazon.com/images/I/51DkLp4UQGL._AC_UL400_.jpg",
+      "unit_price": "39,00\u00a0\u20ac/unit\u00e9",
+      "rating": 3.9,
+      "ratings_total": 699,
+      "prices": [
+        {
+          "symbol": "\u20ac",
+          "currency": "EUR",
+          "value": 39,
+          "raw": "\u20ac39,00",
+          "name": "39,00\u00a0\u20ac",
+          "asin": "B08S2Z5SC6",
+          "link": "https://www.amazon.fr/Original-VOOPOO-Kit-aliment%C3%A9-r%C3%A9servoir/dp/B08S2Z5SC6/ref=sr_1_96?keywords=cigarette+CBD&qid=1694268134&sr=8-96"
+        }
+      ],
+      "price": {
+        "symbol": "\u20ac",
+        "currency": "EUR",
+        "value": 39,
+        "raw": "\u20ac39,00",
+        "name": "39,00\u00a0\u20ac",
+        "asin": "B08S2Z5SC6",
+        "link": "https://www.amazon.fr/Original-VOOPOO-Kit-aliment%C3%A9-r%C3%A9servoir/dp/B08S2Z5SC6/ref=sr_1_96?keywords=cigarette+CBD&qid=1694268134&sr=8-96"
+      },
+      "page": 2,
+      "position_overall": 96
+    }
+  ],
+  "category_information": { "is_landing_page": false },
+  "related_searches": [
+    {
+      "query": "cbd",
+      "link": "https://www.amazon.fr/s/?k=cbd&ref=sugsr_0&pd_rd_w=QU5kV&content-id=amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb:amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_p=97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=TxXed&pd_rd_r=76581149-5e29-465a-92b3-0fb974e0188f&qid=1694268131"
+    },
+    {
+      "query": "cigarette \u00e9lectronique cbd",
+      "link": "https://www.amazon.fr/s/?k=cigarette+%C3%A9lectronique+cbd&ref=sugsr_3&pd_rd_w=QU5kV&content-id=amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb:amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_p=97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=TxXed&pd_rd_r=76581149-5e29-465a-92b3-0fb974e0188f&qid=1694268131"
+    },
+    {
+      "query": "puff cbd",
+      "link": "https://www.amazon.fr/s/?k=puff+cbd&ref=sugsr_1&pd_rd_w=QU5kV&content-id=amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb:amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_p=97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=TxXed&pd_rd_r=76581149-5e29-465a-92b3-0fb974e0188f&qid=1694268131"
+    },
+    {
+      "query": "cigarette \u00e9lectronique jetable",
+      "link": "https://www.amazon.fr/s/?k=cigarette+%C3%A9lectronique+jetable&ref=sugsr_4&pd_rd_w=QU5kV&content-id=amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb:amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_p=97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=TxXed&pd_rd_r=76581149-5e29-465a-92b3-0fb974e0188f&qid=1694268131"
+    },
+    {
+      "query": "cigarette electronique cbd",
+      "link": "https://www.amazon.fr/s/?k=cigarette+electronique+cbd&ref=sugsr_2&pd_rd_w=QU5kV&content-id=amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb:amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_p=97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=TxXed&pd_rd_r=76581149-5e29-465a-92b3-0fb974e0188f&qid=1694268131"
+    },
+    {
+      "query": "cigarette \u00e9lectronique",
+      "link": "https://www.amazon.fr/s/?k=cigarette+%C3%A9lectronique&ref=sugsr_5&pd_rd_w=QU5kV&content-id=amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb:amzn1.sym.97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_p=97bfbe36-ec7c-4fde-989b-e8726568a4fb&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=TxXed&pd_rd_r=76581149-5e29-465a-92b3-0fb974e0188f&qid=1694268131"
+    }
+  ],
+  "related_brands": [
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/88661674-316e-4fcc-b6d7-ac980277bc11._CR0,0,622,622_AC_SX139_SY100_QL70_.png",
+      "image": "https://m.media-amazon.com/images/I/51OhyxSzxFL._AC_SR139,139_QL70_.jpg",
+      "title": "Huile 40% Broad spectrum - Qualit\u00e9 PremiumEn savoir plus sur L'Officine Immortelle",
+      "link": "https://aax-eu.amazon.fr/x/c/RK8_hq6wEPWh2-0lSjWL2iwAAAGKekAJWAMAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBpnx_w/https://www.amazon.fr/stores/page/6DAD9A39-222B-47AC-984D-F841BF1169A7/?_encoding=UTF8&store_ref=SB_A00058241TTKE7KF43GJP&pd_rd_plhdr=t&aaxitk=e44692d446e8db15bb0489ab27eba274&hsa_cr_id=0&lp_asins=B0B9CMJHN9%2CB0B9DYNTTQ%2CB0B9D9PVZ5&lp_query=cigarette%20CBD&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb0_cta&pd_rd_w=e2zG5&content-id=amzn1.sym.5f112302-f87d-441e-b854-89ffe30e6568%3Aamzn1.sym.5f112302-f87d-441e-b854-89ffe30e6568&pf_rd_p=5f112302-f87d-441e-b854-89ffe30e6568&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=aJ5fa&pd_rd_r=7d90a4d5-c0a9-4323-accf-97092c8850e8",
+      "store_link": "https://www.amazon.fr/stores/page/6DAD9A39-222B-47AC-984D-F841BF1169A7",
+      "store_id": "6DAD9A39-222B-47AC-984D-F841BF1169A7",
+      "store_name": "En savoir plus sur L'Officine Immortelle"
+    },
+    {
+      "logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/9a594473-c266-47a4-beb5-469b87de13bb._CR0,0,1200,1200_AC_SX139_SY100_QL70_.jpg",
+      "image": "https://m.media-amazon.com/images/I/71YB3-RMP8L._AC_SR139,139_QL70_.jpg",
+      "title": "D\u00e9couvrez amoseedsEn savoir plus sur amoseeds",
+      "link": "https://aax-eu.amazon.fr/x/c/RFt0ttSPlRg9GA_iq9JPt80AAAGKekAJWAMAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD61GtP/https://www.amazon.fr/stores/page/B7F1A747-BCA1-428B-84C2-75EE5D5327FB/?_encoding=UTF8&store_ref=SB_A04308403DTQCMY8E0EKG&pd_rd_plhdr=t&aaxitk=7bb1e954a7095e41e6b22f3d817deac6&hsa_cr_id=8617356650002&lp_asins=B08XYBWRT6%2CB08XYBF8NS%2CB0B4PKH8Y7&lp_query=cigarette%20CBD&lp_slot=desktop-hsa-3psl&ref_=sbx_be_s_3psl_mbd_mb1_cta&pd_rd_w=e2zG5&content-id=amzn1.sym.5f112302-f87d-441e-b854-89ffe30e6568%3Aamzn1.sym.5f112302-f87d-441e-b854-89ffe30e6568&pf_rd_p=5f112302-f87d-441e-b854-89ffe30e6568&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=aJ5fa&pd_rd_r=7d90a4d5-c0a9-4323-accf-97092c8850e8",
+      "store_link": "https://www.amazon.fr/stores/page/B7F1A747-BCA1-428B-84C2-75EE5D5327FB",
+      "store_id": "B7F1A747-BCA1-428B-84C2-75EE5D5327FB",
+      "store_name": "En savoir plus sur amoseeds"
+    }
+  ],
+  "pagination": {
+    "pages": [
+      {
+        "total_results": 359,
+        "current_page": 1,
+        "next_page_link": "https://www.amazon.fr/s?k=cigarette+CBD&page=2&qid=1694268131&ref=sr_pg_2",
+        "total_pages": 7
+      },
+      {
+        "total_results": 361,
+        "current_page": 2,
+        "next_page_link": "https://www.amazon.fr/s?k=cigarette+CBD&page=3&qid=1694268134&ref=sr_pg_3",
+        "total_pages": 7
+      }
+    ]
+  },
+  "refinements": {
+    "prime": [
+      {
+        "name": "Livraison gratuite",
+        "value": "p_n_free_shipping_eligible/20934939031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_n_free_shipping_eligible%3A20934939031&dc&qid=1694268131&rnid=20934938031&ref=sr_nr_p_n_free_shipping_eligible_1&ds=v1%3Ai69mDNc10i%2FupbdDrbtQSAUhgVhF1JrxodtMVQPnXS0",
+        "refinement_display_name": "Prime"
+      }
+    ],
+    "delivery": [
+      {
+        "name": "Recevez-le aujourd'hui",
+        "value": "p_90/6828315031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_90%3A6828315031&dc&qid=1694268131&rnid=6828314031&ref=sr_nr_p_90_1&ds=v1%3ABSaiesKQbZXT2YuVSzPohcVLWxyOxRvTX2w1onrlxL8",
+        "refinement_display_name": "Delivery"
+      },
+      {
+        "name": "Recevez-le d'ici demain",
+        "value": "p_90/6828316031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_90%3A6828316031&dc&qid=1694268131&rnid=6828314031&ref=sr_nr_p_90_2&ds=v1%3AvE6zrTc3uWC4D9NsDXr6lh%2BddzF%2Bj6BuaX5ccWOxI9M",
+        "refinement_display_name": "Delivery"
+      }
+    ],
+    "departments": [
+      {
+        "name": "Hygi\u00e8ne et Sant\u00e9",
+        "value": "n/197861031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_1&ds=v1%3AW1ubA3auMbK8vErwiItreKepvmM8W83F6mPAwaIRaDI",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Cigarettes \u00e9lectroniques",
+        "value": "n/3786699031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cn%3A3786699031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_2&ds=v1%3AcXT1V4fsR98fvGr89GfRrUh6a1L%2F23H%2BUrvG2bby%2Fb8",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Chichas \u00e9lectroniques et accessoires",
+        "value": "n/4852534031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cn%3A4852534031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_3&ds=v1%3AnnycNNU%2FOdsWCCBsn3M5vaIvasxWnAN3qkVHPh9KI1Y",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Accessoires pour cigarettes \u00e9lectroniques",
+        "value": "n/3786700031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cn%3A3786700031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_4&ds=v1%3AvTM7muwuQHq9adKeusvDft2sEIFgAdxR8ImtjSwr%2Fz4",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Huiles de massage",
+        "value": "n/212180031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cn%3A212180031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_5&ds=v1%3A1VkyA1MIEev6BwW5j3QMtkpVWJoRAtUQ130%2FEEEMPCc",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "E-liquides et recharges pour cigarettes \u00e9lectroniques",
+        "value": "n/3786698031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cn%3A3786698031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_6&ds=v1%3A3fcG9TXMx8NKuz%2ByYSM31STrkjoeP3Fcx8N9HhCwRL8",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Multi-min\u00e9raux",
+        "value": "n/2796444031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cn%3A2796444031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_7&ds=v1%3ABBgP8bapoxWhyAtVNJtPK6fcZE1Kw0SBjsCv%2Bt1mhc0",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Jeux vid\u00e9o",
+        "value": "n/530490",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A530490&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_8&ds=v1%3ARh2aYp7vsGDS5uYhklP%2FsLH9Ub0RMc91QIiktdMGHF8",
+        "refinement_display_name": "Departments"
+      },
+      {
+        "name": "Jeux pour PlayStation",
+        "value": "n/14072387031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A530490%2Cn%3A14072387031&dc&qid=1694268131&rnid=1703605031&ref=sr_nr_n_9&ds=v1%3AtQiypc0c7lYtTFnKXrvMfmzzdSA%2FwzDQ4IolKkQBWVk",
+        "refinement_display_name": "Departments"
+      }
+    ],
+    "reviews": [
+      {
+        "name": "4 \u00e9toiles et plus",
+        "value": "n:197861031||p_72/211718031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_72%3A211718031&dc&qid=1694268131&rnid=211717031&ref=sr_nr_p_72_1&ds=v1%3Ax04OEQy6GsW%2Fhhp4T%2BfpaPBL9x8vKDOzSlyy%2BABNGJw",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "3 \u00e9toiles et plus",
+        "value": "n:197861031||p_72/211719031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_72%3A211719031&dc&qid=1694268131&rnid=211717031&ref=sr_nr_p_72_2&ds=v1%3AO9ZZvF%2FICARCitM1jp6GJAvPv7KeDERKXzduOhA3rAE",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "2 \u00e9toiles et plus",
+        "value": "n:197861031||p_72/211720031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_72%3A211720031&dc&qid=1694268131&rnid=211717031&ref=sr_nr_p_72_3&ds=v1%3AsBcf9%2BYI8ijnbnVGbJuL08i8o7OvaQB25ckct5pOYJM",
+        "refinement_display_name": "Reviews"
+      },
+      {
+        "name": "1 \u00e9toile et plus",
+        "value": "n:197861031||p_72/211721031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_72%3A211721031&dc&qid=1694268131&rnid=211717031&ref=sr_nr_p_72_4&ds=v1%3AkLtvI%2FKOGTcJeFylam2Z%2BzpAXdu5qnGqZOgPrteZ1wI",
+        "refinement_display_name": "Reviews"
+      }
+    ],
+    "price": [
+      {
+        "name": "Jusqu'\u00e0 10 EUR",
+        "value": "n:197861031||p_36/211700031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_36%3A211700031&dc&qid=1694268131&rnid=211699031&ref=sr_nr_p_36_1&ds=v1%3ArtX4i0LRCz0rC5jFkikFvQBUbRLuEe7ZZ93XI8796%2Bw",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "10 \u00e0 20 EUR",
+        "value": "n:197861031||p_36/211701031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_36%3A211701031&dc&qid=1694268131&rnid=211699031&ref=sr_nr_p_36_2&ds=v1%3AHMedkSWctM%2BEg6FcH8j1krc%2FBZNSI5ByhoHANNm2rjI",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "20 \u00e0 50 EUR",
+        "value": "n:197861031||p_36/211702031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_36%3A211702031&dc&qid=1694268131&rnid=211699031&ref=sr_nr_p_36_3&ds=v1%3Aet46sb1RFYqYGy%2FkK6sFvojgbuigSUjmWLhEkbLr6FY",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "50 \u00e0 100 EUR",
+        "value": "n:197861031||p_36/211703031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_36%3A211703031&dc&qid=1694268131&rnid=211699031&ref=sr_nr_p_36_4&ds=v1%3A45vDRPUsCrPmLQhHh87ad5ddDx4G3vuPNARX8nctPNs",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "EUR        EUR            Aller",
+        "value": "p_36/price-range",
+        "refinement_display_name": "Price"
+      },
+      {
+        "name": "Tous les rabais",
+        "value": "p_n_deal_type/26902977031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_n_deal_type%3A26902977031&dc&qid=1694268131&rnid=26902974031&ref=sr_nr_p_n_deal_type_1&ds=v1%3AaDN1WCRwO9%2Bo4G75gs1S0Vm9uANYI%2F6u%2Br87bSL7JYI",
+        "refinement_display_name": "Price"
+      }
+    ],
+    "brand": [
+      {
+        "name": "StrongCBD",
+        "value": "n:197861031||p_89/StrongCBD",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_89%3AStrongCBD&dc&qid=1694268131&rnid=1680780031&ref=sr_nr_p_89_1&ds=v1%3A6OW8PO2gPiTZdFBZQfagqRaVPGP5z1vOzCXOddUhP6w",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Vivi Nova",
+        "value": "n:197861031||p_89/Vivi Nova",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_89%3AVivi+Nova&dc&qid=1694268131&rnid=1680780031&ref=sr_nr_p_89_2&ds=v1%3A59wDreOICZxIleuEpngx0qTajSjRs3s2vKIWUEw%2BzvY",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "VAPTIO",
+        "value": "n:197861031||p_89/VAPTIO",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_89%3AVAPTIO&dc&qid=1694268131&rnid=1680780031&ref=sr_nr_p_89_3&ds=v1%3AcUKY%2BAh0%2FA9aFP66TCIoZntlKvZKJrQhFboeogAOhxs",
+        "refinement_display_name": "Brand"
+      },
+      {
+        "name": "Justfog",
+        "value": "n:197861031||p_89/Justfog",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_89%3AJustfog&dc&qid=1694268131&rnid=1680780031&ref=sr_nr_p_89_4&ds=v1%3AbqzpET0MQnN9zLLeFXVcjmWfD88khyCYpkkCtLhXho0",
+        "refinement_display_name": "Brand"
+      }
+    ],
+    "type_dentreprise": [
+      {
+        "name": "Petites Entreprises",
+        "value": "p_n_sb_certificate_id/75628289031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_n_sb_certificate_id%3A75628289031&dc&qid=1694268131&rnid=75628288031&ref=sr_nr_p_n_sb_certificate_id_1&ds=v1%3A3lqd5QCRdA3jucKq8YOubvs%2B5sMXrQu%2FeClqIqMtCpQ",
+        "refinement_display_name": "Type d'entreprise"
+      }
+    ],
+    "livraisons_programmees": [
+      {
+        "name": "Pr\u00e9voyez et \u00c9conomisez",
+        "value": "p_n_is_sns_available/597604031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_n_is_sns_available%3A597604031&dc&qid=1694268131&rnid=597603031&ref=sr_nr_p_n_is_sns_available_1&ds=v1%3AH4lBGsAHsyIbIloKozQ0zn9HDY63Uwy4zy8JLwp0CIU",
+        "refinement_display_name": "Livraisons programm\u00e9es"
+      }
+    ],
+    "lieu_de_fabrication": [
+      {
+        "name": "France",
+        "value": "n:197861031||p_n_feature_twenty-four_browse-bin/27009790031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=n%3A197861031%2Cp_n_feature_twenty-four_browse-bin%3A27009790031&dc&qid=1694268131&rnid=27009785031&ref=sr_nr_p_n_feature_twenty-four_browse-bin_1&ds=v1%3AcaUUiYe6qJ%2BjAcvm6gS7zzkEptJeZkwR8Y%2Bc5eA1ziE",
+        "refinement_display_name": "Lieu de fabrication"
+      }
+    ],
+    "disponibilite_du_produit": [
+      {
+        "name": "Voir aussi les articles sans stock",
+        "value": "p_n_availability/437882031",
+        "link": "https://www.amazon.fr/s?k=cigarette+CBD&rh=p_n_availability%3A437882031&dc&qid=1694268131&rnid=437880031&ref=sr_nr_p_n_availability_2&ds=v1%3AShO9wA6TPBGtkx2oPfZTLm92vEV8vpqoDKlNPwgMKFg",
+        "refinement_display_name": "Disponibilit\u00e9 du produit"
+      }
+    ]
+  },
+  "ad_blocks": [
+    {
+      "campaign_id": "300002914158936",
+      "brand_logo": "https://m.media-amazon.com/images/S/al-eu-726f4d26-7fdb/88661674-316e-4fcc-b6d7-ac980277bc11._CR0,0,622,622_AC_SX130_SY60_QL70_.png",
+      "advertiser_id": "300041315562432",
+      "ad_id": "300041315562432",
+      "link": "https://aax-eu.amazon.fr/x/c/ROzI1TZjokcRBtAxBiPG2dUAAAGKekAI0QMAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA__a_Z/https://www.amazon.fr/stores/page/6DAD9A39-222B-47AC-984D-F841BF1169A7/?_encoding=UTF8&store_ref=SB_A00058241TTKE7KF43GJP&pd_rd_plhdr=t&aaxitk=e44692d446e8db15bb0489ab27eba274&hsa_cr_id=0&lp_asins=B0B9CMJHN9%2CB0B9DYNTTQ%2CB0B9D9PVZ5&lp_query=cigarette%20CBD&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_bkgd&pd_rd_w=ujKAz&content-id=amzn1.sym.fcb06097-6196-4e78-932c-0f6f89d56105%3Aamzn1.sym.fcb06097-6196-4e78-932c-0f6f89d56105&pf_rd_p=fcb06097-6196-4e78-932c-0f6f89d56105&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=l6ncw&pd_rd_r=a6e02a53-a7df-4000-98c4-03231ae7b5f0",
+      "title": "Huile 40% Broad spectrum - Qualit\u00e9 Premium",
+      "store_link": "https://www.amazon.fr/stores/page/6DAD9A39-222B-47AC-984D-F841BF1169A7/?_encoding=UTF8&store_ref=SB_A00058241TTKE7KF43GJP&pd_rd_plhdr=t&aaxitk=e44692d446e8db15bb0489ab27eba274&hsa_cr_id=0&lp_asins=B0B9CMJHN9%2CB0B9DYNTTQ%2CB0B9D9PVZ5&lp_query=cigarette%20CBD&lp_slot=auto-sparkle-hsa-tetris&ref_=sbx_be_s_sparkle_mcd_cta&pd_rd_w=ujKAz&content-id=amzn1.sym.fcb06097-6196-4e78-932c-0f6f89d56105%3Aamzn1.sym.fcb06097-6196-4e78-932c-0f6f89d56105&pf_rd_p=fcb06097-6196-4e78-932c-0f6f89d56105&pf_rd_r=CH948HH6T44CHC2RTQ39&pd_rd_wg=l6ncw&pd_rd_r=a6e02a53-a7df-4000-98c4-03231ae7b5f0",
+      "store_id": "6DAD9A39-222B-47AC-984D-F841BF1169A7",
+      "store_name": "En savoir plus sur L'Officine Immortelle",
+      "products": [
+        {
+          "asin": "B0B9CMJHN9",
+          "link": "https://www.amazon.fr/dp/B0B9CMJHN9",
+          "image": "https://m.media-amazon.com/images/I/51OhyxSzxFL._AC_SR180,120_QL70_.jpg",
+          "title": "HUILE FRUITS DES BOIS 40% - ANTI INFLAMMATOIRE | BIEN \u00caTRE | RELAXATION | SOULAGE LES DOULEURS | STRESS | SOMMEIL"
+        },
+        {
+          "asin": "B0B9DYNTTQ",
+          "link": "https://www.amazon.fr/dp/B0B9DYNTTQ",
+          "image": "https://m.media-amazon.com/images/I/61Geh0YfgML._AC_SR180,120_QL70_.jpg",
+          "title": "HUILE MANGUE 40% - ANTI INFLAMMATOIRE | BIEN \u00caTRE | RELAXATION | SOULAGE LES DOULEURS | STRESS | SOMMEIL"
+        },
+        {
+          "asin": "B0B9D9PVZ5",
+          "link": "https://www.amazon.fr/dp/B0B9D9PVZ5",
+          "image": "https://m.media-amazon.com/images/I/61BWaZn-3XL._AC_SR180,120_QL70_.jpg",
+          "title": "HUILE CASSIS 40% - ANTI INFLAMMATOIRE | BIEN \u00caTRE | RELAXATION | SOULAGE LES DOULEURS | STRESS | SOMMEIL"
+        }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,9 @@
 import argparse
 import asyncio
 import httpx
+import os
 import time
+import json
 import pandas as pd
 from utils import slugify
 from pprint import pprint
@@ -14,6 +16,7 @@ from tqdm import tqdm
 default_row = {
     "ID produit": "",
     "Référence du produit (AmazonID)": "",
+    "Référence": "",
     "Nom du produit": "",
     "Description courte": "",
     "Description longue": "",
@@ -103,6 +106,19 @@ async def main(product_query, associate_id, number_of_pages, amazon_domain,rainf
     rows = []
     search_results = []
     data = fetch_search_results(product_query, number_of_pages, associate_id,rainforest_api_key)
+
+    ts = int(time.time())
+    directory = f"{ts}_{slugify(product_query)}"
+    path = os.path.join(os.getcwd(), directory)
+    os.mkdir(path)
+
+    json_file_name = f"{path}/{ts}_search_{slugify(product_query)}.json"
+    
+    print(f'json_file_name :{json_file_name}')
+    
+    with open(json_file_name, 'w') as f:
+        json.dump(data,f)
+
     search_results.extend(data['search_results'])
 
     data = pd.DataFrame.from_dict(search_results)
@@ -110,27 +126,35 @@ async def main(product_query, associate_id, number_of_pages, amazon_domain,rainf
         f"Found {len(search_results)} products for \"{product_query}\".")
 
     # search_results = search_results[:5]
-    for ind, product in enumerate(tqdm(search_results, desc="Fetching products")):
+    for ind, product in enumerate(tqdm(search_results[:5], desc="Fetching products")):
 
         asin = product['asin']
         data_product = fetch_product(asin, associate_id, amazon_domain,rainforest_api_key)
+        json_product_file_name = f"{path}/{ts}_{ind}_product_{slugify(product_query)}.json"
+        print(f'json_product_file_name :{json_product_file_name}')
+        with open(json_product_file_name, 'w') as f:
+            json.dump(data_product,f)
 
         product = data_product['product']
         attributes = []
         if 'attributes' in product:
             attributes = [
                 f"- {p['name']}:{p['value']}\n" for p in product['attributes']]
-        images = [p['link'] for p in product['images']]
-        categories = [[p['name'], p['category_id'] if 'category_id' in p else ""]
-                      for p in product['categories']]
+        images = []
+        if 'images' in product:
+            images = [p['link'] for p in product['images']] 
+        
+        categories =[]
+        if 'categories' in product:
+            categories = [[p['name'], p['category_id'] if 'category_id' in p else ""] for p in product['categories']]
 
         row = default_row.copy()
         row["ID produit"] = product['asin'] if 'asin' in product else ""
         row["Référence du produit (AmazonID)"] = product['asin'] if 'asin' in product else ""
-        row["Référence"] = product['asin'] if 'asin' in product else ""
+        row["Référence"] = product['asin'] if 'asin' in product else "Amazon"
         row["Nom du produit"] = product['title'] if 'title' in product else ""
-        row["Description courte"] = "-"
-        row["Description longue"] = "-"
+        row["Description courte"] = product['feature_bullets_flat'] if 'feature_bullets_flat' in product else ""
+        row["Description longue"] = " ".join(product['feature_bullets'])[:254] if "feature_bullets" in product else ""
         row["Mots clés"] = product['keywords'] if 'keywords' in product else ""
         row["Caractéristiques"] = "".join(
             attributes) if len(attributes) > 0 else ""
@@ -138,7 +162,7 @@ async def main(product_query, associate_id, number_of_pages, amazon_domain,rainf
         row["Nombre de produits en stock"] = ""
         row["Titre de la page"] = "-"
         row["URL (sans .html)"] = data_product['request_metadata']['amazon_url'] if 'request_metadata' in data_product else ""
-        row["Méta description"] = ""
+        row["Méta description"] = product['feature_bullets_flat'][:159] if 'feature_bullets_flat' in product else ""
         row["Lien d'affiliation"] = f"{data_product['request_metadata']['amazon_url']}&tag={associate_id}" if 'request_metadata' in data_product else ""
         row["Photo 1"] = product['main_image']['link'] if 'main_image' in product else ""
         row["Photo 2"] = images[0] if len(images) > 0 else ""
@@ -201,7 +225,7 @@ async def main(product_query, associate_id, number_of_pages, amazon_domain,rainf
     if len(rows) > 0:
         df = pd.DataFrame(rows, columns=default_row.keys())
         csv = convert_df(df)
-        csv_file_name = f"{int(time.time())}_{slugify(product_query)}.csv"
+        csv_file_name = f"{path}/{ts}_{slugify(product_query)}.csv"
         with open(csv_file_name, 'wb') as f:
             f.write(csv)
         print(f"Saved {len(rows)} products to {csv_file_name}.csv")
