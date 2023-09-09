@@ -195,4 +195,5 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
 
 *.csv
-config_edc.ini
+*.ini
+*.json
