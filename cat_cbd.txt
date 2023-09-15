@@ -1,11 +1,11 @@
-Hygiène et Santé
-    Crèmes, lotions et huiles de massage
-    Multi-minéraux
-    Acides gras oméga
-    Aromathérapie
-Huiles essentielles pour sauna
-Huiles pour le corps
-Livres
-    Médecines douces
-Epicerie
-Beauté et Parfum
+"Hygiène et Santé",
+"Crèmes, lotions et huiles de massage",
+"Multi-minéraux",
+"Acides gras oméga",
+"Aromathérapie",
+"Huiles essentielles pour sauna",
+"Huiles pour le corps",
+"Livres",
+"Médecines douces",
+"Epicerie",
+"Beauté et Parfum",
