@@ -14,21 +14,24 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 ## Configuration
-Dans le fichier config.ini, renseigner les informations (api_key,...).
+Dans le fichier config.yml, renseigner les informations (api_key,...).
 Il est possible de faire plusieurs fichier de configuration.
 ex:
 ```
-[CONFIG]
-product_query=Portefeuille EDC
-associate_id=affiliate_id
-rainforest_api_key=xxxxxx
-number_of_pages=1
-amazon_domain=amazon.fr
+product_queries:
+  - product 01
+  - product 02
+  - product 03
+associate_id: 
+rainforest_api_key: 
+number_of_pages: 1
+amazon_domain: amazon.fr
+
 ```
 
 ## Usage
 ```
-python main.py config.ini
+python main.py config.yml
 ```
 
 ## Output
