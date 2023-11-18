@@ -114,7 +114,8 @@ async def main(product_queries, associate_id, number_of_pages, amazon_domain,rai
         search_results = []
         data = fetch_search_results(product_query, number_of_pages, associate_id,rainforest_api_key)
 
-        directory = f"{ts}_{slugify(product_query)}"
+        directory = f"exports/{ts}_{slugify(product_query)}"
+
         path = os.path.join(os.getcwd(), directory)
         os.mkdir(path)
 
